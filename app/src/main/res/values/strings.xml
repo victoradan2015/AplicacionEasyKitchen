@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Ingredientes">Ingredientes</string>
+    <string name="Procedimiento">Procedimiento</string>
+
+    COMIDA MEXICANA.-------------------------
+
+
+    <string name="titulo_tacos_cochinita">Tacos Cochinita Pibil</string>
+    <string name="tacos_cochinita_pibil_ingredientes">1 kg de maciza de cerdo
+1 taza de jugo de naranja
+3 chiles habaneros en rodajas
+1 cubo de achiote
+3 chiles guajillo hidratados
+1 taza de vinagre de manzana
+½ taza de hojas de cilantro
+1 cda. de orégano
+1 cda. de hojas de laurel seco
+4 limones
+</string>
+    <string name="tacos_cochinita_pibil_procedimiento">Licua el jugo, achiote, guajillo,vinagre, orégano, laurel y salpimienta. Vierte la salsa sobre la carne en una olla exprés y cósela durante 30 minutos. Mezcla la cebolla, chile, vinagre y orégano en un tazón. Sirve la cochinita en tacos, acompaña con la cebolla de manzanos y termina
+con hojas de cilantro.
+    </string>
+
+    <string name="titulo_arros_leche">Arroz Con Leche</string>
+    <string name="arros_con_leche_ingredientes">1 taza de arroz \n
+4 tazas de agua \n
+1 pieza de canela en rama \n
+1 sobre de Atole Sabor Cajeta Maizena® \n
+5 tazas de leche descremada \n
+1/2 taza de azúcar \n
+Método de preparación \n
+</string>
+    <string name="arros_con_leche_procedimiento">Cocer en su totalidad el arroz en las 4 tazas de agua junto con la canela. Una vez que el arroz esté listo, colar si llega a tener mucha agua, retirar la canela y reservar. -Disolver el contenido del sobre de  Maizena® Fécula de Maíz Sabor Cajeta  en 1 taza de leche. -Hervir el resto de la leche con el azúcar y cuando suelte el hervor, añadir la mezcla de Maizena® previamente disuelta. -Dejar espesar sin dejar de mover y una vez que ha tomado consistencia agregar el arroz -Cocinar todo por 5 minutos moviendo regularmente. -Repartir en 6 moldes y servir tibio o frío.
+    </string>
+
+    <string name="titulo_asado_verde">Asado Verde</string>
+    <string name="asado_verde_ingredientes">
+        900 grs. Lomo de Cerdo cortado en trozos pequeños · n\
+250 grs. Costillita de Cerdo cortada en trozos pequeños (opcional) ·  n\
+6-8 Tomatillos grandes ·  n\
+2 chiles Poblanos ·  n\
+2-3 chiles Jalapeños (agrega mas si te gusta mas picante) ·   n\
+1 Aguacate grande o 2 aguacates medianos ·     n\
+1 diente de Ajo ·    n\
+¼ taza de Cilantro Fresco · n\
+Sal al gusto ·  n\
+Pimienta Negra al gusto ·  n\
+Cominos molidos (opcional) n\
+    </string>
+    <string name="asado_verde_procedimiento">Pela los tomatillos y colocalos en una ollita. Quitales el rabo a los chiles y colocalos en la misma ollita con los tomatillos. Agrega el agua suficiente para que estos ingredientes se cubran y cocinalos a fuego alto por 10-15 minutos o hasta que esten blandos. n\
+Ya que los tomatillos y los chiles esten blandos, colocalos en la licuadora y agregales el aguacate, el ajo, el cilantro y una taza de agua, sazona con sal y pimienta al gusto (agrega una pizca de cominos si gustas!), muele a velocidad alta hasta que todo este bien combinado en una salsa suave. Reservala por un momento. n\
+En una cacerola a fuego medio-alto dora la carne de puerco, (junto a la carne dora las costillitas), puedes agregar una cucharada de aceite si crees que lo necesita.  Sazona la carne con sal y pimienta al gusto, y cocinala  por unos 15 minutos o hasta que empiece a dorarse un poco. n\
+Ya que la carne tome un poquito de color,  agregale la salsa verde, agrega mas agua si lo crees necesario para que el asado no te quede muy espeso,  cubrelo con una tapadera y cocina a fuego medio-alto hasta que hierva. n\
+Ya que el asado este hirviendo, prueba el sabor, agrega mas sal y pimienta si lo crees necesario, baja el fuego a lo mas bajo y continua cocinando por 15 minutos mas para que la carne termine de cocerse. Ya que la carne este bien blandita, ahora si puedes servir.
+
+    </string>
+
+    <string name="titulo_bunuelos">Buñuelos</string>
+    <string name="bunuelos_ingredientes">
+        4 huevos\n
+1/4 tazas de azúcar refinada\n
+1 taza de aceite vegetal\n
+2 tazas de harina blanca\n
+1 cucharadita de polvo para hornear\n
+1 cucharadita de sal de mesa\n
+1 taza de azúcar refinada\n
+1 cucharadita de canela en polvo\n
+aceite de canola, extra para freir. \n
+    </string>
+    <string name="bunuelos_procedimiento">
+        En un tazón grande mezcla los huevos con 1/4 de taza de azúcar y bate hasta que espesen y cobren un color amarillo fuerte. \n
+Agrega 1 taza de aceite. Mezcla por separado 1 1/2 tazas de harina, polvo para hornear y sal. \n
+Incorpora gradualmente a la mezcla de huevo y revuelve bien. \n
+Coloca la masa sobre una superficie enharinada (una la 1/2 taza de harina restante). Amasa bien hasta que se sienta suave. \n
+Forma 16 bolsas de masa. Extiende cada una con el rodillo hasta formar círculos de aproximadamente 12 cm de diámetro. \n
+Deja reposar sobre papel encerado y sin cubrir durante 10 minutos. \n
+Calienta el aceite extra a 175ºC en un sartén hondo. \n
+Fríe los buñuelos crudos hasta que se doren, dando vuelta 1 vez. \n
+Retire el exceso de grasa con toallas de papel. \n
+Espolvorea con una mezcla de azúcar y canela. Guarda en un recipiente hermético. \n
+    </string>
+
+    <string name="titulo_chiles_poblanos">Chiles Poblanos</string>
+    <string name="chiles_poblanos_ingredientes">
+        5 Piezas Chile poblano pelados y desvenados\n
+1 Lata Frijoles refritos bayos\n
+200 Gramos Queso Panela cortados en tiras\n
+3 Piezas Clara de huevo\n
+1 Taza Harina de trigo\n
+3 Piezas Yema\n
+1/2 Taza Aceite de maíz para freír\n
+3 Piezas Jitomate\n
+1/4 Taza Puré de tomate\n
+1 Taza Agua\n
+2 Cubos Concentrado de Tomate con Pollo CONSOMATE®\n
+1/2 Cucharadita Orégano seco\n
+2 Cucharaditas Aceite de maíz.\n
+    </string>
+    <string name="chiles_poblanos_procedimiento">
+        Relleno\n
+Rellena cada chile con 2 cucharadas de frijoles y con rebanadas de queso, ciérralos con un palillo para evitar que se salga el relleno; pásalos por la harina y reserva. \n
+Licúar y freír\n
+Para el caldillo, licua los jitomates, el agua, el Concentrado de Tomate con Pollo CONSOMATE® y el Orégano; cuela. En una cacerola calienta las dos cucharadas de aceite y fríe por 10 minutos o hasta que hierva. \n
+Batir y freír\n
+Por último, bate las claras hasta formar picos duros y agrega las yemas una por una sin dejar de batir; pasa los chiles por el capeado y fríelos en aceite caliente. Escurre sobre papel absorbente y pásalos al caldillo; sirve y ofrece. \n
+Consejo culinario\n
+Se recomienda mantener limpio el aceite mientras fríes los chiles para obtener mejor un mejor capeado.
+    </string>
+
+    <string name="titulo_churros">Churros</string>
+    <string name="churros_ingredientes">
+        250 g. harina de trigo todo uso (también se puede hacer con harina de panadería)\n
+250 g. de agua\n
+1 cucharadita de sal (8 gramos aproximadamente) \n
+Azúcar para espolvorear\n
+Aceite de oliva suave para freír o aceite de girasol\n
+Papel absorbente de cocina\n
+Una churrera manual o una manga pastelera con boca fina. \n
+    </string>
+    <string name="churros_procedimiento">
+        Ponemos la harina en un bol amplio. En una cazuela calentamos el agua con la sal. \n
+Cuando empiece a hervir la vertemos directamente y de una sola vez sobre la harina. Con una cuchara de madera integramos la harina con el agua. Nos quedará una masa muy pegajosa y bastante compacta. \n
+Ahora vamos a introducir esta masa en una churrera o manga pastelera. Este paso es fundamental para que los churros os salgan bien y no tengáis problemas con ellos a la hora de la fritura. La churrera compacta la masa y elimina el aire. Esto evita que los churros luego nos salten en el aceite, por eso es un paso muy importante. Si tenéis máquina para hacer churros la rellenáis con la masa. La mejor opción. \n
+Si no tenéis opción de hacer los churros con churrera, tenemos otra posibilidad, una manga pastelera con una boquilla en forma de estrella. Aunque no es lo recomendable, pues no quedan igual que con churrera. Aún así, hay gente que ha conseguido hacer buenos churros con manga. Las mangas pasteleras pueden ser de plástico desechable. Podéis encontrarlas en tiendas de utensilios de repostería o tiendas online de repostería creativa. \n
+Vamos haciendo las porciones de churros con la masa cruda sobre un paño de cocina en la encimera. En una forma de que se vaya enfriando la masa y evitar que se abran o estallen durante la fritura. \n
+Ponemos al fuego una sartén con abundante aceite de oliva muy suave o aceite de girasol.
+    </string>
+
+
+    COMIDA JAPONESA
+    <string name="titulo_dorayaky">Dorayaki</string>
+    <string name="dorayaki_ingredientes">
+        Huevos 2\n
+Azúcar 50 g\n
+Miel 15 ml\n
+Harina de repostería 85 g\n
+Sal una pizca\n
+Levadura química 2 ml\n
+Agua 40 ml\n
+Aceite de oliva virgen extra\n
+Anko o crema de chocolate para rellenar
+    </string>
+    <string name="dorayaki_procedimiento">
+        Disponer los huevos en un cuenco con el azúcar y la miel. Batir con una batidora de varillas hasta que doble o casi triplique su volumen, y tenga un color pálido y textura espesa. Tamizar encima la harina con la levadura y una pizca leve de sal. Mezclar con movimientos envolventes y suaves. Incorporar el agua y tapar.\n
+Dejar reposar al menos 15 minutos a temperatura ambiente. Preparar una plancha o buena sartén antiadherente engrasándola ligeramente con aceite de girasol o mantequilla fundida. Calentar a fuego medio y añadir cucharones de masa, dando forma circular con el dorso de una cuchara.\n
+Cocinar hasta que salgan burbujas, deslizar por abajo una espátula y dar la vuelta. Cocinar hasta que esté bien dorado y retirar. Continuar hasta terminar la masa. Untar la mitad de las tortitas con anko, chocolate o crema y formar los dorayakis uniendo con el resto.
+    </string>
+
+   <string name="titulo_gyosa">Gyosa</string>
+    <string name="gyosa_ingredientes">
+        1 paquete de pasta para Gyoza (50 piezas aprox.)\n
+400 g. de carne de cerdo picada\n
+150 g. de col china\n
+50 g. de cebolleta\n
+2 dientes de ajo picados\n
+1 cucharada de jengibre rallado\n
+1 cucharada de salsa de soja\n
+1 cucharadita de sal\n
+1/2 cucharadita de azúcar\n
+1/2 cucharada de maicena\n
+un poco de aceite de sésamo
+    </string>
+    <string name="gyosa_procedimiento">
+        ┃Paso 1
+Picamos la cebolleta y la col china. Las reservamos para luego.
+┃Paso 2
+En un bol ponemos el cerdo picado, el ajo, el jengibre, las salsa de soja, la sal, el azúcar, la maicena, el aceite de sésamo y lo mezclamos todo bien hasta que quede pegajoso.
+┃Paso 3
+Añadimos la cebolleta y la col china y lo volvemos a mezclar. Lo cubrimos con un film y lo dejamos en la nevera unos 20 minutos.
+┃Paso 4 : Rellenar las Gyozas
+a) Cogemos una pieza de pasta para Gyoza y en el centro ponemos una cucharadita de nuestro relleno.
+b) Mojamos con los dedos la parte exterior de la pasta, la doblemos por la mitad y vamos cerrándola con los dedos.
+Yo hago desde la mitad, 3 pliegues a cada lado, aunque también podéis empezar a plegar por un lado y terminar en el otro. Para terminar, presionamos un poco los pliegues para que no se abran.
+Mientras vamos haciendo el resto, las ponemos en un plato y las cubrimos con un trapo húmedo para que no se sequen.
+┃Paso 5: Planchar las Gyozas
+En una sartén extendemos un chorrito de aceite vegetal y ponemos nuestras gyozas. Cuando estén tostadas por la base, les añadimos un chorrito de aceite de sésamo y ponemos agua para cubrir bien todo el fondo. Yo además le añado a éste agua una cucharadita de maicena para que se forme una costra crujiente en la base.
+┃Paso 6
+Tapamos la sartén y dejamos cocinar hasta que se evapore el agua, tardará entre 8 y 10 minutos.
+Una vez se ha evaporado el agua de la sartén, las gyozas quedarán tostadas y crujientes en la base y bien cocinadas pero más blanditas por arriba, las ponemos en un plato y ya están listas para comer, las acompañamos con nuestra salsa.
+┃Paso 7: Prepara la salsa
+En un bol pequeño mezclamos la salsa de soja, el vinagre de arroz y un poco de aceite de sésamo, removemos bien y ya está lista.
+
+    </string>
+
+    <string name="titulo_omuraisu">Omuraisu</string>
+    <string name="omuraisu_ingredientes">3 huevos\n
+30 gr de pollo\n
+Media cebolla pequeña\n
+Un puñado de champiñones\n
+60 gr de arroz cocido japonés\n
+1 cucharada de vino blanco\n
+Ketchup\n
+Sal y pimienta\n
+Aceite para freír.
+    </string>
+    <string name="omuraisu_procedimiento">
+        En primer lugar, prepara los ingredientes sólidos. Corta la cebolla en juliana o tiras finas, el pollo en dados pequeños y los champiñones en láminas y luego por la mitad.\n
+Seguidamente, caliente un poco de aceite en una sartén y fríe la cebolla, el pollo y los champiñones a fuego medio. \n
+Cuando la cebolla esté transparente, añade un par de cucharadas de ketchup, el arroz cocido y el vino blanco. Añade sal y pimienta al gusto. \n
+Aparte, bate los huevos. Caliente una sartén mediana con un poco de aceite. Cuando esté caliente, echa los huevos batidos y repártelos por toda la sartén. Con unos palillos de cocina puedes ayudar a que se vaya cocinando todo el huevo. \n
+Cuando el huevo esté casi listo, pero no del todo, apaga el fuego. Añade entonces la mezcla de arroz en uno de los extremos. \n
+Finalmente, dobla la tortilla con ayuda de una espátula o de la manera que te resulte más fácil. Sirve la tortilla haciendo un dibujo con ketchup en el centro de la misma. Sí, este paso es totalmente opcional, pero si has estado en Japón y has comido omuraisu, te habrás dado cuenta de que siempre viene con un dibujo hecho con el ketchup. Generalmente, además, es un corazón.
+    </string>
+
+
+    <string name="titulo_omur">Omuraisu</string>
+    <string name="omuraisu_ingredisntes"></string>
+    <string name="omuraisu_prosedimiento"></string>
+
+</resources>
