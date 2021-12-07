@@ -29,4 +29,9 @@ public class RepertorioPaises extends AppCompatActivity {
         startActivity(clickear);
     }
 
+    public void China(View view) {
+        Intent clickear = new Intent(this, RepertorioRecetasChina.class);
+        startActivity(clickear);
+    }
+
 }
