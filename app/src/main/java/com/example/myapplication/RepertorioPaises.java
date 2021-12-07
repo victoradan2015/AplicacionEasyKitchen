@@ -24,5 +24,9 @@ public class RepertorioPaises extends AppCompatActivity {
         startActivity(clickear);
     }
 
+    public void Italiana(View view) {
+        Intent clickear = new Intent(this, RepertorioRecetasItalia.class);
+        startActivity(clickear);
+    }
 
 }

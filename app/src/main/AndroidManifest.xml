@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Gnocci"
+            android:exported="false" />
+        <activity
+            android:name=".Carpaccio"
+            android:exported="false" />
+        <activity
+            android:name=".Caprese"
+            android:exported="false" />
+        <activity
+            android:name=".Agnolotti"
+            android:exported="false" />
+        <activity
+            android:name=".RepertorioRecetasItalia"
+            android:exported="false" />
+        <activity
             android:name=".RollosSushiEmpanizado"
             android:exported="false" />
         <activity

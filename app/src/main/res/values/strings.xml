@@ -380,5 +380,79 @@ Para empanizar el rollo, cúbrelo con la harina, pásalo por el huevo y empaníz
 Corta el rollo en rodajas de 1 centímetros de ancho. Coloca en un plato extendido, acompaña con pepino y decora con ajonjolí. Disfruta con salsa de soya y chile serrano.
 </string>
 
+    <string name="titulo_agnolotti">Agnolotti</string>
+    <string name="agnolotti_ingredientes">500 gr de harina n\
+3 huevosn\
+Saln\
+Ingredientes para el relleno:\n
+150 gr de carne de ternera picada\n
+50 gr de carne de cerdo picada\n
+100 gr de mantequilla\n
+½ cebolla troceada\n
+1 huevo\n
+Queso parmesano rallado\n
+1 diente de ajo\n
+½ cucharadita de pimienta blanca\n
+1 cucharadita de romero\n
+1 cucharadita de salvia\n
+1½ cucharadita de albahaca\n
+½ cucharadita de laurel en polvo\n
+Aceite de oliva
+</string>
+    <string name="agnolotti_procedimiento">Para empezar esta receta de agnolotti al estilo piamontesa, primero hacemos una mezcla con la harina, el huevo y una pizca de sal. Si vemos que nos queda muy seca añadiremos un poquito de agua. Por el contrario, si vemos que queda la masa húmeda, añadimos un poquito más de harina. Una vez bien amasado lo dejamos en reposo durante 15 minutos aproximadamente.\n
+Mientras tanto, hacemos otra mezcla en un bol con la carne de cerdo, la carne de ternera, una pizca de sal, pimienta, romero, salvia, albahaca y laurel. Reservamos. Después pelamos y cortamos la cebolla y el diente de ajo lo más pequeño que podamos. Rehogamos en una sartén con un poco de aceite de oliva y luego lo mezclamos con la carne para el relleno.\n
+En este momento extendemos la masa con la ayuda de un rodillo de madera previamente enharinado. Cortamos la masa en cuadrados de unos 4×4 centímetros. Para ello podemos ayudarnos de un cortapastas especial de cocina, pero si no disponemos de ello podemos hacerlo con un cuchillo que corte bien.\n
+Después colocamos en el centro de cada cuadrado un poco de la mezcla de relleno. A continuación, mojamos los bordes con un poquito de agua y tapamos con otro cuadrado de masa cerrándolo bien. Este procedimiento lo repetimos hasta terminar toda la masa.\n
+Por último solo nos queda cocer los agnolotti en una olla con abundante agua hirviendo con una pizca de sal. Contaremos unos 5 minutos a partir de que comience la ebullición. Luego los escurrimos bien y los emplatamos calientes con la mantequilla derretida por encima. Antes de servir a la mesa nuestros agnolotti a la piamontesa añadimos queso parmesano a nuestro gusto. </string>
+
+    <string name="titulo_caprese">Caprese</string>
+    <string name="caprese_ingredientes">Tomate 1 \n
+Mozzarella fresca una bola 250 g\n
+ Albahaca unas hojas de tamaño grande\n
+Aceite de oliva virgen extra para aliñar\n
+Vinagre de Módena unas gotas\n
+Sal y pimienta al gusto
+</string>
+    <string name="caprese_procedimiento">Es una receta tan sencilla que no tiene ningún misterio. Lavamos bien el tomate y la albahaca y los secamos con papel de cocina. Secamos también la bola de mozzarella para facilitarnos la labor de cortarla en rodajas.\n
+Por su parte, a las hojas de albahaca, les retiramos el tallo para que en la ensalada, esté la parte más sabrosa solamente. Cortamos el tomate en rodajas finas. Es preferible utilizar tomates maduros y con mucho sabor para notar el contraste de los ingredientes.\n
+En un plato colocamos una rodaja de tomate y seguidamente una rodaja de mozzarella acaballada sobre él. Sobre cada loncha de queso mozzarella colocamos una hoja de albahaca. Repetimos la operación hasta cerrar el círculo. Decoramos con un cogollo de albahaca en el centro.
+</string>
+
+    <string name="titulo_carpaccio">Carpaccio</string>
+    <string name="carpaccio_ingredientes">Solomillo de ternera\n
+Sal\n
+Pimienta\n
+Aceite de oliva virgen extra\n
+Alcaparras\n
+Queso Parmesano\n
+Mostaza en grano
+</string>
+    <string name="carpaccio_procedimiento">1.- Cogemos el solomillo y lo metemos durante 1 hora y pico en la nevera, que notemos que se empieza a congelar pero no llega a solidificarse del todo. Una vez pasado ese tiempo cortamos con un cuchillo afilado lonchas muy finas, lo más finas que podamos.\n
+2. Ponemos un chorrito de aceite de oliva en un plato y ponemos sal y pimienta. Cubrimos bien con las lonchas de carpaccio, aderezamos con sal, pimienta, unas alcaparras, la mostaza en grano y el queso Parmesano. Todo al gusto y en la cantidad que queramos. Servimos frío.
+</string>
+
+    <string name="titulo_gnocci">Gnocci</string>
+    <string name="gnocci_ingredientes">1 Kg. de patatas medianas (os recomiendo patata gallega, son especiales para cocer) (aprox. 7 patatas).\n
+200 g. de harina de trigo de fuerza (opcional, también se puede hacer con harina de todo uso, unos 180 g van a la masa y los 20 restantes van para espolvorear la mesa de trabajo y las manos).\n
+2 yemas de huevo.\n
+Sal y nuez moscada rallada o en polvo (al gusto).
+</string>
+    <string name="gnocci_procedimiento">Cuando vayamos a comprar las patatas es preferible que las escojamos de un tamaño similar, porque así luego se cocinarán de igual manera, estando todas en el mismo punto.\n
+Ya en casa el primer paso será lavar bien las patatas, para quitarle la tierra o suciedad que puedan traer.\n
+Las cocemos sin pelar en abundante agua hirviendo, durante 20-25 minutos, dependiendo de la dureza de las patatas y su tamaño. Se cocinan con su piel para evitar que absorban agua durante la cocción.\n
+Pasado el tiempo, pinchamos las patatas con un tenedor o similar para comprobar si están ya hechas. Lo sabremos cuando al pincharlas, entra y sale el utensilio con facilidad (lo mismo que hacemos cuando horneamos un bizcocho).\n
+Retiramos de la cazuela y las dejamos reposar 10-15 minutos, para poder manipular las patatas sin riesgo a quemarnos. En cuanto podemos echarles la mano, las pelamos y volvemos a ponerlas a enfriar otros 10 minutos más. Es importante que la carne de la patata esté templada, lo que nos facilitará manejar la masa con facilidad.
+</string>
+
+    <string name="titulo_la_polenta">La Polenta</string>
+    <string name="la_polenta_ingredientes">4 tazas de agua\n
+Sal, al gusto\n
+1 taza de harina de maíz o polenta instantánea\n
+1 cucharada de aceite de oliva o mantequilla (opcional)\n
+Queso parmesano rallado (opcional).
+</string>
+    <string name="la_polenta_procedimiento">En una olla grande, lleve el agua y sal a hervir. Gradualmente añada la harina, removiendo constantemente. Baje la temperatura a baja y continúe removiendo por alrededor de 30 minutos para harina de maíz o 15 minutos para polenta instantánea.\n
+Para una polenta firme, vierta un poco en una bandeja para hornear y déjela enfriar, luego mantenga en el refrigerador antes de rebanar. Si usted sirve polenta suave, mezcle el aceite de oliva o mantequilla y parmesano, si lo usa y sirva dentro de 20 minutos.
+</string>
 
 </resources>
