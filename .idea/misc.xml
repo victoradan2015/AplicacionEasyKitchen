@@ -4,20 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/drawable-v24/bordes.xml" value="0.22552083333333334" />
-        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_arroz_con_leche.xml" value="0.11503623188405797" />
-        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_asado_verde.xml" value="0.14" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_arroz_con_leche.xml" value="0.18" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_asado_verde.xml" value="0.17" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_bunuelos.xml" value="0.12" />
-        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_chiles_poblanos.xml" value="0.1" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_chiles_poblanos.xml" value="0.18" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_churros.xml" value="0.1" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_dorayaki.xml" value="0.11503623188405797" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_dorayaky.xml" value="0.11503623188405797" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_gyosa.xml" value="0.11503623188405797" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_omuraisu.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_onigiri.xml" value="0.1" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_pollo_teriyaki.xml" value="0.1" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_ramen.xml" value="0.1" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_registro.xml" value="0.1213768115942029" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_repertorio_paises.xml" value="0.18" />
-        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_repertorio_recetas_japon.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_repertorio_recetas_japon.xml" value="0.14" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_repertorio_recetas_mexico.xml" value="0.16" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_rollos_sushi_empanizado.xml" value="0.18" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_sashimi.xml" value="0.22" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_soba.xml" value="0.15" />
+        <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_sopa_de_misu.xml" value="0.1" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/activity_tacos_cochinita_pibil.xml" value="0.22" />
         <entry key="..\:/Users/Juan/Documents/INGENIERIA/esp usuario/AplicacionMovil/app/src/main/res/layout/fragment_first.xml" value="0.1" />
       </map>

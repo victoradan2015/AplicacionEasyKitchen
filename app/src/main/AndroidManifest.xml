@@ -10,6 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".RollosSushiEmpanizado"
+            android:exported="false" />
+        <activity
+            android:name=".SopaDeMisu"
+            android:exported="false" />
+        <activity
+            android:name=".Soba"
+            android:exported="false" />
+        <activity
+            android:name=".Sashimi"
+            android:exported="false" />
+        <activity
+            android:name=".Ramen"
+            android:exported="false" />
+        <activity
+            android:name=".PolloTeriyaki"
+            android:exported="false" />
+        <activity
+            android:name=".Onigiri"
+            android:exported="false" />
+        <activity
             android:name=".Omuraisu"
             android:exported="false" />
         <activity

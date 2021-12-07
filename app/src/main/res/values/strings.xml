@@ -94,18 +94,18 @@ Espolvorea con una mezcla de azúcar y canela. Guarda en un recipiente hermétic
     <string name="titulo_chiles_poblanos">Chiles Poblanos</string>
     <string name="chiles_poblanos_ingredientes">
         5 Piezas Chile poblano pelados y desvenados\n
-1 Lata Frijoles refritos bayos\n
-200 Gramos Queso Panela cortados en tiras\n
-3 Piezas Clara de huevo\n
-1 Taza Harina de trigo\n
-3 Piezas Yema\n
-1/2 Taza Aceite de maíz para freír\n
-3 Piezas Jitomate\n
-1/4 Taza Puré de tomate\n
-1 Taza Agua\n
-2 Cubos Concentrado de Tomate con Pollo CONSOMATE®\n
-1/2 Cucharadita Orégano seco\n
-2 Cucharaditas Aceite de maíz.\n
+1 Lata Frijoles refritos bayos \n
+200 Gramos Queso Panela cortados en tiras \n
+3 Piezas Clara de huevo \n
+1 Taza Harina de trigo \n
+3 Piezas Yema \n
+1/2 Taza Aceite de maíz para freír \n
+3 Piezas Jitomate \n
+1/4 Taza Puré de tomate \n
+1 Taza Agua \n
+2 Cubos Concentrado de Tomate con Pollo CONSOMATE® \n
+1/2 Cucharadita Orégano seco \n
+2 Cucharaditas Aceite de maíz. \n
     </string>
     <string name="chiles_poblanos_procedimiento">
         Relleno\n
@@ -157,7 +157,7 @@ Dejar reposar al menos 15 minutos a temperatura ambiente. Preparar una plancha o
 Cocinar hasta que salgan burbujas, deslizar por abajo una espátula y dar la vuelta. Cocinar hasta que esté bien dorado y retirar. Continuar hasta terminar la masa. Untar la mitad de las tortitas con anko, chocolate o crema y formar los dorayakis uniendo con el resto.
     </string>
 
-   <string name="titulo_gyosa">Gyosa</string>
+    <string name="titulo_gyosa">Gyosa</string>
     <string name="gyosa_ingredientes">
         1 paquete de pasta para Gyoza (50 piezas aprox.)\n
 400 g. de carne de cerdo picada\n
@@ -214,8 +214,171 @@ Finalmente, dobla la tortilla con ayuda de una espátula o de la manera que te r
     </string>
 
 
-    <string name="titulo_omur">Omuraisu</string>
-    <string name="omuraisu_ingredisntes"></string>
-    <string name="omuraisu_prosedimiento"></string>
+    <string name="titulo_onigiri">Onigiri</string>
+    <string name="onigiri_ingredientes">Dos medidas de arroz japonés blanco cocido (la cantidad variará dependiendo del número de onigiri que quieras preparar).\n
+Láminas de alga seca nori.\n
+Relleno 1: Atún y mayonesa.\n
+Relleno 2: Copos de bonito seco katsuobushi y salsa de soja.\n
+Agua.\n
+Una pizca de sal.\n
+Una pizca de sésamo blanco.</string>
+    <string name="onigiri_procedimiento">En primer lugar, partimos de la base de que tienes ya arroz cocido y reposado en la suihanki. Si no tienes, lo habrás cocinado en olla y lo habrás dejado reposar igualmente.\n
+Seguidamente, prepara los ingredientes que vayas a necesitar para rellenar y finalizar los onigiri. En este caso, prepara un cuenco con atún en conserva y mayonesa y otro con copos de bonito y salsa de soja. \n
+Corta las láminas de alga nori en tiras de 2 o 3 cm de ancho y unos 10 cm de longitud. \n
+A continuación, dale forma a los onigiri. Si tienes moldes para onigiri, sigue las instrucciones de los mismos: moja con agua los bordes, añade el arroz y, con la ayuda de los dedos, deja espacio suficiente para añadir el relleno, tapa con arroz, presiona y dale forma y, finalmente, extrae del molde. \n
+Si no tienes moldes, usa las manos. Para ello, humedécelas y espolvoréalas con sal y sésamo. Toma una porción de arroz para darle forma y ve presionando para compactarlo. Seguidamente, hazle un agujero en el medio donde pondrás el relleno y tapa con más arroz, volviendo a presionar para darle forma y que el exterior queda compacto. Intenta hacer una forma triangular aunque si no te sale, da igual. \n
+Para finalizar, cubre medio onigiri con las tiras de alga nori que has cortado previamente. Si los vas a comer en casa, hazlo en el último momento, junto antes de comer, para que el alga siga estando crujiente.
+</string>
+
+    <string name="titulo_pollo_teriyaki">Pollo Teriyaki</string>
+    <string name="pollo_teriyaki_ingredientes">
+        4 pechugas de pollo enteras\n
+1 cebolleta grande\n
+200 ml. salsa de soja\n
+100 ml. de Mirin\n
+100 ml. de sake\n
+100 g. de azúcar blanquilla\n
+5 g. de piel de jengibre fresco\n
+4 cucharadas de aceite de oliva suave\n
+Para acompañar: 250 g. de arroz basmati Sundari
+    </string>
+    <string name="pollo_teriyaki_procedimiento">Preparación de la salsa teriyaki:\n
+La salsa teriyaki se hace mezclando y calentando cuatro ingredientes: azúcar, takara mirin, salsa de soja y sake (esté último puede ser sustituido por otro tipo de alcohol) y yo además le añado la frescura del jengibre. Los ingredientes no tienen porqué estar en la misma proporción, sino que depende de la receta.\n
+Preparamos nuestra salsa echandoo la salsa de soja, el Mirin, el azúcar, el sake y la piel de jengibre a un cazo. Calentamos a fuego alto y removemos hasta que se disuelva el azúcar. \n
+Dejamos cocer durante 3 minutos removiendo de vez en cuando. Colamos la salsa y reservamos. En caso de que no queráis hacer la salsa en casa tenéis la opción de comprarla ya hecha, pero no queda igual de rico. \n
+Preparación del pollo teriyaki. Presentación final:\n
+Limpiamos las pechugas de pollo de posibles restos de grasa y venitas que pueda tener. Las troceamos en dados no demasiado pequeños. \n
+Como acompañamiento al pollo lo más habitual es utilizar cebolla o cebolleta fresca que se cocina con la carne. Con cualquiera de las dos conseguiremos que al final quede caramelizada gracias al azúcar de la salsa teriyaki. En este caso hemos elegido una cebolleta grande, la cortamos en juliana en tiras gruesas. \n
+En una sartén amplia ponemos a calentar el aceite y añadimos los trozos de pollo y la cebolleta. Doramos durante unos 5 o 6 minutos. Añadimos la salsa teriyaki que tenemos preparada y dejamos cocer a fuego medio durante 15 minutos. \n
+Veremos que el pollo está brillante, como lacado con la salsa, y esta casi se ha consumido. Servimos el pollo con arroz blanco, si os atrevéis os dejo con esta receta de arroz basmati, ideal para este plato.
+</string>
+
+    <string name="titulo_ramen">Ramen</string>
+    <string name="ramen_ingredientes">
+        Para el caldo:\n
+1 ½ ℓ de caldo de pollo 1 poro mediano cortado en trozos medianos.\n
+2 cebollas cambray cortadas en trozos medianos.\n
+6 hongos shiitake deshidratados y cortados en trozos medianos.\n
+10 g de jengibre fresco.\n
+1 diente de ajo.\n
+1 anís estrella.\n
+1 lámina de alga nori.\n
+4 rebanadas gruesas de tocino.\n
+Para el montaje: \n
+2 porciones de fideos de ramen \n
+30 ml de base de soya y miso\n
+2 huevos cocidos, tiernos\n
+10 g de germen de soya\n
+2 ramas de cebollín finamente picadas\n
+30 g de elote amarillo desgranado, cocido\n
+alga nori cortada en chiffonade, al gusto ajonjolí negro, al gusto\n
+ajonjolí negro, al gusto.
+</string>
+    <string name="ramen_procedimiento">Caldo.\n
+Ponga el caldo de pollo sobre el fuego, incorpore el resto de los ingredientes y deje que hierva durante 30 minutos.\n
+Cuele el caldo y póngalo nuevamente sobre el fuego durante otros 30 minutos. \n
+Para el Montaje. \n
+Hierva los fideos de ramen durante 8 minutos o hasta que su textura sea flexible y suave. Distribuya la base de soya y miso en dos tazones. Distribuya los fideos cocidos en los tazones y mezclelos muy bien con la base de soya y miso, sirva el caldo caliente sobre ellos. Corte los huevos cocidos por la mitad. Coloque los huevos cocidos, el germen de soya, el cebollín picado y los granos de elote sobre los tazones, espolvoree el ajonjolí negro.
+</string>
+
+    <string name="titulo_sashimi">Sashimi</string>
+    <string name="sashimi_ingredientes">1 medallón de atún Dolores®, Tuny®\n
+1 cucharadita de ajonjolí\n
+1 cucharadita de ajonjolí negro\n
+2 cucharadas de salsa de soya\n
+1 cucharadita de aceite de ajonjolí\n
+1 cucharada de jugo de limón\n
+1 cucharada de cebollín\n
+1 cucharadita de jengibre, rallado
+</string>
+    <string name="sashimi_procedimiento">Cortar el atún congelado en láminas delgadas.\n
+Mezclar la soya y el limón y el jengibre rallado. \n
+Coloca el atún en un plato. \n
+Sirve la salsa encima del atún y unas gotas de aceite de ajonjolí. \n
+Espolvorea el ajonjolí y el cebollín picado.
+</string>
+
+    <string name="titulo_soba">Soba</string>
+    <string name="soba_ingredientes">
+        1.5 litros de agua\n
+1 trozo grande de kombu unos 15 – 18 gramos\n
+2 setas shiitake secas\n
+300 gramos de fideos soba\n
+175 ml de salsa de soja\n
+120 ml de mirin\n
+1 cucharada de azúcar\n
+1 cucharada de semillas de sésamo opcional\n
+2 cebolletas picadas (opcional).
+    </string>
+    <string name="soba_procedimiento">La noche anterior poner el agua, kombu y setas en un bol grande. Tapar y dejar en la nevera hasta que vayas a preparar la sopa.\n
+Llevar una olla de agua a ebullición y añadir los fideos. Hervir según las indicaciones del producto hasta que estén al dente. Escurrir y lavar con agua fría, frotándolos suavemente para sacar el almidón. Volver a escurrir y reservar. \n
+Retirar el kombu y las setas del agua y llevar el caldo a ebullición. Añadir la salsa de soja, mirin y azúcar y mezclar bien para disolver el azúcar. Dividir la soba en cuatro bols y servir. \n
+</string>
+
+
+    <string name="titulo_sopa_misu">Sopa De Misu</string>
+    <string name="sopa_de_misu_ingredientes">1 l de agua o caldo dashi.\n
+15 g de alga wakame deshidratada.\n
+3 cucharadas de miso.\n
+200 g de tofu.\n
+50 g de puerro.\n
+50 g de cebolleta.\n
+Fideos soba (opcional).
+    </string>
+    <string name="sopa_de_misu_procedimiento">Ponemos el agua en una olla y la llevamos a ebullición. Una vez comience a hervir, sacamos un poco de agua a un vaso para disolver después el miso.\n
+Metemos en la olla el alga wakame y lo dejamos cocer 5 minutos. Después echamos el tofu cortado en dados pequeños de 1 cm aproximadamente y la verdura en trocitos pequeños. Cocinamos la sopa otros 5 minutos.\n
+Disolvemos el miso en agua y, cuando la sopa esté lista, la retiramos del fuego y le añadimos el agua con miso disuelto. Lista para servir.\n
+Si te gusta con fideos soba y de manera opcional, solo tienes que seguir las instrucciones del fabricante para cocerlos. Una vez los tengas pones una pequeña cantidad en cada cuenco vertiendo la sopa de miso por encima, de manera similar a cuando hacemos sopa ramen en casa.
+</string>
+
+    <string name="titulo_rollo_sushi">Rollo Sushi Empanizado</string>
+    <string name="rollo_sushi_ingredientes">
+       1/2 tazas de arroz de sushi.\n
+suficiente de agua, fría para enjugar el arroz.\n
+3 tazas de agua, caliente para la cocción del arroz.\n
+4 cucharadas de vinagre de arroz.\n
+3 cucharaditas de azúcar.\n
+1 cucharadita de sal.\n
+5 algas nori.\n
+1 taza de queso crema, en bastones para el relleno.\n
+1 taza de pepino, en bastones, sin cáscara para el relleno.\n
+1 taza de zanahoria, en bastones, sin cáscara para el relleno.\n
+1 1/2 tazas de surimi, en bastones para el relleno.\n
+1 taza de harina, para empanizar.\n
+2 huevos, para empanizar.\n
+2 tazas de panko, para empanizar.\n
+suficiente de aceite vegetal.\n
+suficiente de pepino, en tiritas delgadas para decorar.\n
+suficiente de ajonjolí, garapiñado para decorar.\n
+suficiente de soya, con chile serrano para acompañar.
+    </string>
+    <string name="rollo_sushi_procedimiento">Remoja el arroz en agua fría por 5 minutos, escurre y repite tres veces.
+En una ollita con tapa, cocina el arroz con 3 tazas de agua caliente por 10 minutos, a fuego bajo. Retira del fuego. Extiende sobre una charola y enfría por 15 minutos.
+Mezcla el vinagre de arroz con el azúcar y la sal. Luego vértelo sobre el arroz frío e incorpora. Reposa unos minutos.
+Arma el rollo de sushi: sobre un tapete de bambú con plástico adherente, coloca una pieza de alga Nori; con tus manos húmedas, cubre con arroz; da la vuelta y rellena con los bastones de queso crema, pepino, zanahoria y surimi. Cierra con ayuda del tapete y dale forma al apretarlo. Refrigera por 10 minutos.
+Para empanizar el rollo, cúbrelo con la harina, pásalo por el huevo y empanízalo con el pan molido. Fríe en aceite vegetal caliente. Escurre.
+Corta el rollo en rodajas de 1 centímetros de ancho. Coloca en un plato extendido, acompaña con pepino y decora con ajonjolí. Disfruta con salsa de soya y chile serrano.
+</string>
+
+    <string name="titulo_rsollo_sushi">Omuraisu</string>
+    <string name="rollo_ssusho_ingredientes">
+        1.5 litros de agua \n
+1 trozo grande de kombu unos 15 – 18 gramos \n
+2 setas shiitake secas \n
+300 gramos de fideos soba \n
+175 ml de salsa de soja \n
+120 ml de mirin \n
+1 cucharada de azúcar\n
+1 cucharada de semillas de sésamo opcional\n
+2 cebolletas picadas (opcional).
+    </string>
+    <string name="rollo_suhi_procedimiento">Remoja el arroz en agua fría por 5 minutos, escurre y repite tres veces.
+En una ollita con tapa, cocina el arroz con 3 tazas de agua caliente por 10 minutos, a fuego bajo. Retira del fuego. Extiende sobre una charola y enfría por 15 minutos.
+Mezcla el vinagre de arroz con el azúcar y la sal. Luego vértelo sobre el arroz frío e incorpora. Reposa unos minutos.
+Arma el rollo de sushi: sobre un tapete de bambú con plástico adherente, coloca una pieza de alga Nori; con tus manos húmedas, cubre con arroz; da la vuelta y rellena con los bastones de queso crema, pepino, zanahoria y surimi. Cierra con ayuda del tapete y dale forma al apretarlo. Refrigera por 10 minutos.
+Para empanizar el rollo, cúbrelo con la harina, pásalo por el huevo y empanízalo con el pan molido. Fríe en aceite vegetal caliente. Escurre.
+Corta el rollo en rodajas de 1 centímetros de ancho. Coloca en un plato extendido, acompaña con pepino y decora con ajonjolí. Disfruta con salsa de soya y chile serrano.
+</string>
+
 
 </resources>

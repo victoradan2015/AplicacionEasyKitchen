@@ -29,4 +29,39 @@ public class RepertorioRecetasJapon extends AppCompatActivity {
         startActivity(clickear);
     }
 
+    public void Onigiri(View view) {
+        Intent clickear = new Intent(this, Onigiri.class);
+        startActivity(clickear);
+    }
+
+    public void PolloTeriyaki(View view) {
+        Intent clickear = new Intent(this, PolloTeriyaki.class);
+        startActivity(clickear);
+    }
+
+    public void Ramen(View view) {
+        Intent clickear = new Intent(this, Ramen.class);
+        startActivity(clickear);
+    }
+
+    public void Sashimi(View view) {
+        Intent clickear = new Intent(this, Sashimi.class);
+        startActivity(clickear);
+    }
+
+    public void Soba(View view) {
+        Intent clickear = new Intent(this, Soba.class);
+        startActivity(clickear);
+    }
+
+    public void SopaDeMisu(View view) {
+        Intent clickear = new Intent(this, SopaDeMisu.class);
+        startActivity(clickear);
+    }
+
+    public void RolloSushiEmpanizado(View view) {
+        Intent clickear = new Intent(this, RollosSushiEmpanizado.class);
+        startActivity(clickear);
+    }
+
 }
