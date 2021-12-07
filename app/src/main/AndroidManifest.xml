@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Spagetti"
+            android:exported="false" />
+        <activity
+            android:name=".Risotto"
+            android:exported="false" />
+        <activity
+            android:name=".Ravioles"
+            android:exported="false" />
+        <activity
+            android:name=".Pizza"
+            android:exported="false" />
+        <activity
+            android:name=".Pasta"
+            android:exported="false" />
+        <activity
+            android:name=".Ossobuco"
+            android:exported="false" />
+        <activity
+            android:name=".Minestrone"
+            android:exported="false" />
+        <activity
+            android:name=".LaPolenta"
+            android:exported="false" />
+        <activity
+            android:name=".Lasana"
+            android:exported="false" />
+        <activity
             android:name=".Gnocci"
             android:exported="false" />
         <activity

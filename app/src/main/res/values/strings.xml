@@ -455,4 +455,184 @@ Queso parmesano rallado (opcional).
 Para una polenta firme, vierta un poco en una bandeja para hornear y déjela enfriar, luego mantenga en el refrigerador antes de rebanar. Si usted sirve polenta suave, mezcle el aceite de oliva o mantequilla y parmesano, si lo usa y sirva dentro de 20 minutos.
 </string>
 
+    <string name="titulo_lasana">Lasaña</string>
+    <string name="lasana_ingredientes">3 cucharadas de aceite de oliva.\n
+1 taza de cebolla, picada finamente.\n
+2 cucharadas de ajo, picado finamente.\n
+1 taza de apio, picado finamente.\n
+1 taza de zanahoria, picada en cubos chicos.\n
+1 taza de jitomate, picado en cubos chicos.\n
+500 gramos de carne de res molida.\n
+al gusto de sal.\n
+al gusto de pimienta.\n
+1/2 tazas de puré de tomate.\n
+1/2 tazas de vino tinto.\n
+1 cucharadita de tomillo.\n
+1 cucharadita de orégano.\n
+1 hoja de laurel.\n
+2 cucharadas de mantequilla.\n
+3 cucharadas de harina.\n
+1 1/2 tazas de leche.\n
+1/2 cucharaditas de pimienta blanca.\n
+1/4 cucharaditas de nuez moscada.\n
+al gusto de sal.\n
+suficiente de pasta para lasaña.\n
+suficiente de agua.\n
+al gusto de sal.\n
+suficiente de queso manchego, en láminas..
+</string>
+    <string name="lasana_procedimiento">Para la carne, calienta aceite de oliva en una sartén a temperatura media y añade la cebolla, el ajo, el apio, la zanahoria, el jitomate y la carne de res; agrega el vino tinto, el puré de tomate, el tomillo, el orégano, el laurel y sazona con sal y pimienta; deja cocinar por 20 minutos hasta que se evapore el líquido. Reserva..\n
+Para la bechamel, en una olla a temperatura media, derrite la mantequilla y agrega la harina, dora por unos minutos y agrega la leche; sazona con pimienta blanca, sal y nuez moscada. Cocina por 5 minutos hasta que espese y reserva..\n
+Para la pasta, calienta el agua en una olla hasta que hierva, agrega suficiente sal y cocina las láminas de pasta por 5 minutos. Retira y reserva..\n
+Para armar la lasaña, coloca una capa de pasta, una de salsa bechamel, una de carne y una de queso, repite los pasos hasta llenar el molde, termina con una capa de queso y hornea por 20 minutos. Corta y sirve.
+</string>
+
+    <string name="titulo_minestrone">Minestrone</string>
+    <string name="minestrone_ingredientes">Alubias blancas 100 g.\n
+Judías verdes redondas bobby 100 g.\n
+Zanahoria 2.\n
+Patata 2.\n
+Calabacín 1.\n
+Apio 1.\n
+Tomate 2.\n
+Diente de ajo 2.\n
+Cebolla 2.\n
+Pasta corta seca 120 g.\n
+Queso Parmesano 80 g.\n
+Albahaca 6.\n
+Aceite de oliva virgen extra , 3 cucharadas soperas.\n
+Caldo de pollo concentrado 1.\n
+Sal y pimienta al gusto.
+</string>
+    <string name="minestrone_procedimiento">Comenzaremos poniendo durante ocho horas las alubias blancas en remojo. Pasado este tiempo las cubrimos en una cazuela con agua fría y las dejamos cocer durante una hora. Esto también se podía hacer en la olla exprés y así se reduce mucho el tiempo de preparación.\n
+Cortamos el resto de las hortalizas en pequeños dados. Cuando las alubias blancas están cocidas las escurrimos reservando el líquido. En la cazuela ponemos a calentar el aceite de oliva y salteamos la cebolla picada durante unos tres minutos. Añadimos las patatas, las zanahorias, el calabacín y el apio. Removemos y cocemos durante otros tres minutos más.\n
+Añadimos el ajo, la pastilla de caldo, las alubias blancas, las judías verdes, el tomate y el agua reservada de cocer las habas. Cocemos una hora a fuego medio.\n
+Una vez pasado el tiempo añadimos la pasta, dejamos otros diez minutos a fuego medio. Salpimentamos. En el momento de servir añadir las hojas de albahaca y el queso parmesano rallado.
+</string>
+
+    <string name="titulo_ossobuco">Ossobuco</string>
+    <string name="ossobuco_ingredientes">4 trozos de osobuco de ternera.\n
+2 cebolla.\n
+1 zanahoria.\n
+1 puerro.\n
+2 ajos.\n
+2 tomates maduros.\n
+1 vaso de vino tinto.\n
+Caldo de verduras o de carne (No pongo medida porque iremos poniendole en función de lo que vaya necesitando).\n
+10 granos de pimienta.\n
+5 clavos de olor.\n
+2 hoja de laurel.\n
+Sal.\n
+Harina.\n
+Aceite de oliva
+</string>
+    <string name="ossobuco_procedimiento">1.- Comenzamos dando unos cortes con el cuchillo en los bordes de la carne. Esto se hace para que al cocerlo no se deforme la pieza y quede plana.\n
+2.- Continuamos rebozando en un poco de harina los trozos de carne de ternera. Lo haremos para sellar la carne en la cacerola.\n
+3.- Sellamos las rodajas de osobuco, es decir, las doramos a fuego fuerte. Una vez doradas por ambos lados retiramos y reservamos.\n
+4.- En una cacerola grande pochamos la cebolla, el ajo, el puerro y la zanahoria.\n
+5.- Una vez pochados agregamos los tomates pelados y sin pepitas. Rehogamos durante unos 5 minutos más.\n
+6.- Incorporamos a la cacerola la carne sellada, un vaso de vino tinto, las pimientas, las hojas de laurel y los clavos de olor. Dejamos que se evapore el alcohol, como unos 3 minutos cociendo a fuego fuerte.\n
+7.- Una vez evaporado el alcohol, cubrimos con el caldo de carne o verduras y dejamos cocer a fuego medio durante 2 horas. Yo prefiero poco a poco antes que hacerlo 30 minutos en una olla express. Si se va quedando sin caldo, le volvéis a poner un poco más. Yo a la hora de cocción le vuelvo a agregar un poco más de caldo o agua, lo que queráis.
+</string>
+
+    <string name="titulo_pasta">Pasta</string>
+    <string name="pasta_ingredientes">350 gr Tallarines.\n
+3 jitomates.\n
+1 diente Ajo.\n
+1/4 Cebollas.\n
+3 cdas Aceite de Oliva.\n
+200 gr Tocino sin grasa, en rebanadas.\n
+2 dientes Ajos finamente picados.\n
+Queso Parmesano rallado. \n
+Pimienta Negra.
+</string>
+    <string name="pasta_procedimiento">Cuece las pasta en agua con sal hasta que quede al dente. Escurre y reserva. Licúa los jitomates, el ajo y 1/4 de cebolla para hacer la salsa. Reserva. Parte las cebollas restantes por la mitad y córtalas en tiras. Calienta en un sartén el aceite, fríe el tocino y añade la cebolla y el ajo; sofríe todo hasta que se dore. Incorpora la salsa y deja cocer a fuego lento por 10 minutos. Agrega los tallarines. Mezcla todo y sirve espolvoreando parmesano y pimienta.
+    </string>
+
+    <string name="titulo_pizza">Pizza</string>
+    <string name="pizza_ingredientes">Para la masa de cuatro pizzas individuales:\n
+Harina 00, 500 g (*)\n
+Levadura fresca prensada de panadería, 2 g\n
+Agua a temperatura ambiente, 350 ml\n
+Aceite de oliva virgen extra, 20 g\n
+Miel, una cucharadita\n
+Sal, 10 g\n
+Para la cobertura\n
+Passata de tomate, 300 g (**)\n
+Aceite de oliva virgen extra, 2 cucharadas\n
+Sal, al gusto\n
+Orégano seco, 1 cucharadita\n
+Mozzarella fresca, 250 g (2 bolas)\n
+Albahaca fresca, un ramillete.
+</string>
+    <string name="pizza_procedimiento">En un bol, ponemos la mitad de agua y disolvemos la levadura prensada de panadería.\n
+En el bol de una amasadora tipo Kitchen Aid, ponemos la harina, la miel y el agua con la levadura que hemos disuelto. Ponemos a funcionar la máquina a velocidad media y, sin dejar de amasar, vamos añadiendo el resto del agua y la sal.\n
+Finalmente, añadimos el aceite poco a poco, dejándolo caer en forma de hilo mientras la máquina sigue amasando.\n
+Enharinamos ligeramente la mesa de trabajo, volcamos la masa, la tapamos y la dejamos reposar media hora.\n
+Pasado ese tiempo trabajamos la masa con las manos, plegándola una y otra vez sobre sí misma hasta formar una bola de masa lisa.\n
+Ponemos nuestra bola de masa en un bol limpio ligeramente engrasado y enharinado, lo tapamos con papel film y dejamos reposar durante unas ocho horas.\n
+
+02: Formar las pizzas\n
+Dividimos la masa - que habrá aumentado mucho de tamaño -y formamos 4 bolas de idéntico tamaño que estiraremos sobre la mesa enharinada con ayuda de las manos.\n
+Pasamos las bases de nuestras pizzas a una bandeja forrada con papel de horno, las tapamos con un paño limpio y la dejamos reposar una hora.\n
+Mientras reposa la masa encendemos el horno a 250-300ºC -al máximo que alcance nuestro horno de casa- para que vaya precalentándose. Si tenemos una piedra para hornear pizzas, la ponemos desde ese momento en la parte inferior del horno.\n
+También aprovechamos para sacar la mozzarella de la nevera. La apretamos bien y la dejamos sobre un colador para que suelte el máximo líquido posible.\n
+
+03: Colocar los ingredientes y hornear la pizza\n
+Sazonamos el tomate mezclándolo con el aceite de oliva virgen extra, el orégano y sal al gusto. Lo extendemos sobre las bases de pizza e introducimos estas en la parte inferior del horno precalentado a la máxima temperatura.\n
+Dejamos hornear durante unos 10 minutos, las sacamos del horno y repartimos sobre ellas la mozzarella cortada en rodajas. Introducimos de nuevo el horno durante unos siete u ocho minutos hasta que el queso esté completamente fundido.\n
+Sacamos del horno y repartimos por encima las hojas de albahaca.
+</string>
+
+    <string name="titulo_ravioles">Ravioles</string>
+    <string name="ravioles_ingredientes">250 g de harina\n
+1 pizca de sal\n
+1 cucharadita de aceite de oliva\n
+3 huevos\n
+1 taza de agua\n
+225 g de queso ricotta\n
+100 g de queso crema\n
+50 g de queso mozzarella\n
+50 g de queso provolone\n
+1/4 manojo de perejil\n
+3 tazas de salsa para pasta.
+</string>
+    <string name="ravioles_procedimiento">En una superficie enharinada, haz una montaña de harina con la sal. En un tazón bate 2 huevos, aceite de oliva y 2 cucharadas de agua.\n
+Vierte la mezcla en la harina y amasa hasta que tengas un bollo que no se pegue. Déjala reposar envuelta en plástico adherente por 1 hora.\n
+Mientras tanto En un tazón, mezcla los quesos mozzarella, ricotta, provolone, queso crema, perejil picado y 1 huevo. Reserva. En una cacerola, calienta la salsa de tomates con ajo finamente picado y aceite de oliva.\n
+Estirar la masa y aplica el resto del huevo batido. Coloca relleno dejando un espacio de 2cm entre una y otra. Cubre formando cada ravioli y sella los bordes de cada raviol.\n
+En una olla con agua y sal incorpora los ravioles y cocina hasta que suban a la superficie, unos 4 u 8 minutos. Retira y ponlos a hornear en una charola por 5 minutos a 190°\n
+Sirve acompañando de la salsa de tomate.
+</string>
+
+    <string name="titulo_risotto">Risotto</string>
+    <string name="risotto_ingredientes">1 cucharada de aceite de oliva o mantequilla\n
+1 cebolla mediana finamente cortada en cubitos\n
+1 ½ taza de arroz Arborio\n
+4 tazas de caldo pollo o verduras\n
+1 cucharada de mantequilla dulce (opcional)\n
+3 cucharadas de queso parmesano recién rallado + extra para servir
+</string>
+    <string name="risotto_procedimiento">Coloque el caldo a ebullición sobre una llama alta. Gire la llama hacia abajo y deje a un lado en la parte posterior de la estufa.\n
+En un wok o horno holandés, calentar el aceite de oliva a fuego medio-alto. Añadir las cebollas y saltear hasta que sean suaves y transparentes, pero sin color unos 5 minutos. Agregue el arroz y cocine hasta que los granos se vuelvan transparentes en los bordes, aproximadamente 1 minuto.\n
+Añada un cucharón de caldo al arroz y cocine agitando hasta que haya sido absorbido. Continúe agregando el caldo, 1 cucharón a la vez, revolviendo todo el tiempo hasta que el arroz esté al dente y cremoso, alrededor de 15 a 20 minutos. Reserve la última cucharada. Agregue las verduras crudas, por ejemplo, espárragos, cuando el caldo esté casi evaporado o con el segundo al último cucharón si está cocido o congelado.\n
+Torne el calor abajo a medio-bajo y arroje en el queso de parmesano, la mantequilla (si la esta usando) y el último cucharón de caldo. Retire del fuego, cubra y deje reposar durante 3-5 minutos. Sirva cubierto con queso parmesano extra rayado.
+</string>
+
+    <string name="titulo_spagetti">Spagetti</string>
+    <string name="spagetti_ingredientes">1 paquete de espagueti\n
+1/4 de crema agria\n
+1 taza de puré de jitomate\n
+1/4 de mantequilla\n
+1 cubo de sazonador de pollo\n
+Queso parmesano\n
+Sal y pimienta al gusto
+</string>
+    <string name="spagetti_procedimiento">Hierve 2 litros de agua y, cuando esté en su punto, agrega 2 cucharadas de sal. Posteriormente, cuece la pasta hasta que esté blanda.\n
+Retira del fuego, cuela la pasta y desecha el agua.\n
+Hierve el puré de jitomate a fuego lento y añade la crema, la mantequilla y el cubo sazonador.\n
+Vierte el espagueti en la salsa y mezcla.\n
+Sirve. Espolvorea con el queso parmesano al gusto.
+</string>
+
 </resources>

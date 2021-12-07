@@ -142,18 +142,17 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
-                    android:layout_weight="1"
-                    android:background="@drawable/polloteriyaki"
-                    android:onClick="PolloTeriyaki"
                     android:layout_marginVertical="10dp"
-                    android:orientation="vertical"
-                    >
+                    android:layout_weight="1"
+                    android:background="@drawable/lapolenta"
+                    android:onClick="Lapolenta"
+                    android:orientation="vertical">
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_pollo_teriyaki"
+                        android:text="@string/titulo_la_polenta"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -165,9 +164,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/ramen"
+                    android:background="@drawable/lasana"
                     android:orientation="vertical"
-                    android:onClick="Ramen"
+                    android:onClick="Lasana"
                     android:layout_marginVertical="10dp"
                     >
 
@@ -175,7 +174,29 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_ramen"
+                        android:text="@string/titulo_lasana"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/minestrone"
+                    android:orientation="vertical"
+                    android:onClick="Minestrone"
+                    android:layout_marginVertical="10dp"
+
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/titulo_minestrone"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -187,9 +208,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sashimi"
+                    android:background="@drawable/ossobuco"
                     android:orientation="vertical"
-                    android:onClick="Sashimi"
+                    android:onClick="Ossobuco"
                     android:layout_marginVertical="10dp"
 
                     >
@@ -198,7 +219,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_sashimi"
+                        android:text="@string/titulo_ossobuco"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -210,9 +231,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/soba"
+                    android:background="@drawable/pasta"
                     android:orientation="vertical"
-                    android:onClick="Soba"
+                    android:onClick="Pasta"
                     android:layout_marginVertical="10dp"
 
                     >
@@ -221,30 +242,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_soba"
-                        android:textColor="@color/white"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_weight="1"
-                    android:background="@drawable/sopademisu"
-                    android:orientation="vertical"
-                    android:onClick="SopaDeMisu"
-                    android:layout_marginVertical="10dp"
-
-                    >
-
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:gravity="center"
-                        android:text="@string/titulo_sopa_misu"
+                        android:text="@string/titulo_pasta"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -255,9 +253,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sushiempanizado"
+                    android:background="@drawable/pizza"
                     android:orientation="vertical"
-                    android:onClick="RolloSushiEmpanizado"
+                    android:onClick="Pizza"
                     android:layout_marginVertical="10dp"
 
                     >
@@ -266,7 +264,73 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_rollo_sushi"
+                        android:text="@string/titulo_pizza"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/ravioles"
+                    android:orientation="vertical"
+                    android:onClick="Ravioles"
+                    android:layout_marginVertical="10dp"
+
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/titulo_ravioles"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/risoto"
+                    android:orientation="vertical"
+                    android:onClick="Risotto"
+                    android:layout_marginVertical="10dp"
+
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/titulo_risotto"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/spagetti"
+                    android:orientation="vertical"
+                    android:onClick="Spagetti"
+                    android:layout_marginVertical="10dp"
+
+                    >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/titulo_spagetti"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
