@@ -15,17 +15,17 @@ public class RepertorioRecetasColombia extends AppCompatActivity {
     }
 
     public void Ajico(View view) {
-        Intent clickear = new Intent(this, AbalonEnLeche.class);
+        Intent clickear = new Intent(this, Ajiaco.class);
         startActivity(clickear);
     }
 
     public void Arepas(View view) {
-        Intent clickear = new Intent(this, AbalonEnLeche.class);
+        Intent clickear = new Intent(this, Arepas.class);
         startActivity(clickear);
     }
 
     public void ArrozConCoco(View view) {
-        Intent clickear = new Intent(this, AbalonEnLeche.class);
+        Intent clickear = new Intent(this, ArrozConCoco.class);
         startActivity(clickear);
     }
 

@@ -698,8 +698,38 @@ Si os gustan los brotes de soja (opcionales) los incorporamos con la salsa cuand
 
     COMIDA COLOMBIANA
 
-    <string name="titulo_ajico">Ajico</string>
-    <string name="ajico_ingredientes">Ajico</string>
-    <string name="ajico_procedimiento">Ajico</string>
+    <string name="titulo_ajiaco">Ajiaco</string>
+    <string name="ajiaco_ingredientes">8 tazas de agua.\n
+4 pechugas medianas de pollo, sin piel y sin hueso.\n
+1 taza de guascas secas (Colombian plant).\n
+2 lbs de papa criolla (yukon gold).\n
+2 lbs de papa sabanera (white potatoes).\n
+1 cebolla mediana picada.\n
+2 dientes de ajo picados.\n
+4 mazorcas grandes de maíz.\n
+1 cubo de caldo de gallina (pollo).\n
+1/2 taza de arvejas o chícharos verdes (peas).\n
+Sal al gusto</string>
+    <string name="ajiaco_procedimiento">En una olla grande agrega el agua, el pollo y la mitad de las guascas.\n
+Déjalo cocinar por aproximadamente 40 minutos. Cuando ya el pollo este cocido lo sacas de la olla y lo colocas en un plato aparte; córtalo en trocitos y cúbrelo con papel aluminio para mantenerlo tibio.\n
+No tires el agua. Luego en la misma agua en que cocinaste el pollo debes agregar las dos clases de papa, la cebolla y el ajo. Deja cocinar por aproximadamente 2 horas para que la papa criolla se disuelva completamente.\n
+Agrega el pollo cortado en trocitos, las mazorcas, el caldo de gallina, las arvejas verdes (chícharos) y la sal a tu gusto. Mezcla con cuidado todos los ingredientes y déjalos cocinar por una hora más a fuego medio bajo.\n
+Agrega la mitad restante de las guascas y cocina por 5 minutos más.</string>
+
+    <string name="titulo_arepas">Arepas</string>
+    <string name="arepas_ingredientes">
+175 gr de harina de maíz precocida blanca (marca PAN).\n
+270 ml de agua.\n
+1/2 cucharada sopera de sal.
+</string>
+    <string name="arepas_procedimiento">En un bol añade el agua y diluye la sal.\n
+Echa la harina de maíz precocida y mezcla muy bien hasta que se integren todos los ingredientes.\n
+Amasa durante unos minutos hasta obtener una mezcla compacta.\n
+Toma porciones de masa de unos 100 gr y haz primero una bola y luego aplástala ligeramente para que quede un panecillo de 1,5 cm de grosor, aproximadamente.\n
+Pon a calentar una sartén donde quepan bien las arepas o una plancha y engrásala con un poquito de aceite de oliva o de girasol.\n
+Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadamente, durante 5 minutos por cada lado a fuego medio – alto.\n
+Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida.\n
+Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.</string>
+
 
 </resources>
