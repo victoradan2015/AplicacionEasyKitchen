@@ -34,4 +34,9 @@ public class RepertorioPaises extends AppCompatActivity {
         startActivity(clickear);
     }
 
+    public void Colombia(View view) {
+        Intent clickear = new Intent(this, RepertorioRecetasColombia.class);
+        startActivity(clickear);
+    }
+
 }

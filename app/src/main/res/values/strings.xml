@@ -635,4 +635,71 @@ Vierte el espagueti en la salsa y mezcla.\n
 Sirve. Espolvorea con el queso parmesano al gusto.
 </string>
 
+    COMIDA CHINA
+
+    <string name="titulo_abalon_en_lecho">Abalon En Lecho De Lechuga</string>
+    <string name="abalon_en_lecho_ingredientes">1 lata de abalones (aquí no encontraremos fresco).\n
+50 gr. de champiñones.\n
+1 cogollo de lechuga.\n
+2 cucharadas de aceite vegetal.\n
+6 cebolletas pequeñas.\n
+6 discos finos de jengibre.\n
+Para la salsa:.\n
+6 cucharadas de caldo de pescado.\n
+1 cucharada de salsa de ostras.\n
+1 cucharada de salsa de soya.\n
+1 cucharadita de maicena.\n
+1 cucharita de azúcar.\n
+1 cucharadita de aceite de sésamo</string>
+    <string name="abalon_en_lecho_procedimiento">Cortaremos los champiñones por la mitad.\n
+Blanquearemos la lechuga, escaldándola en agua hirviendo, durante 1 minuto, sacarla y escurrirla bien, poniéndola en el fondo de una fuente.
+En un wok, calentaremos las 2 cucharadas de aceite, una vez caliente saltearemos las cebolletas, cortadas bastamente, usando también parte de los tallos verdes, y el jengibre cortado en tiritas.
+Una vez salteada la verdura, añadiremos los abalones, cortados en discos finos, salteándolos un poco.\n
+Añadiremos todos los ingredientes de la salsa.\n
+Cuando la salsa engorde un poco, verteremos todo sobre el lecho de lechuga.\n
+Podemos emplear otras verduras de hojas verdes.\n
+En lugar de abalones, también podemos elaborar este plato, con el músculo blanco de las vieiras, al ser este músculo más tierno que el de los abalones, podemos ponerlo entero o cortado por la mitad.
+</string>
+
+    <string name="titulo_arroz_congee">Arroz Congee</string>
+    <string name="arroz_congee_ingredientes">180 g arroz basmati.\n
+2.25 l caldo de verduras.\n
+Salsa de soja.\n
+Aceite de sésamo
+</string>
+    <string name="arroz_congee_procedimiento">En una olla grande, agregue el caldo (o agua) y el arroz.\n
+Cúbralo y cocínelo durante aproximadamente 1½ - 2 horas a fuego lento, hasta que el arroz y el agua hayan formado unas gachas.\n
+Las gachas se pueden consumir de forma líquida o más compacta, en cuyo caso, será necesario extender la cocción. Después de 2 horas, todavía queda algo de líquido, y las gachas siguen siendo bastante líquidas.\n
+Vierta las gachas en tazones.\n
+Sazone con salsa de soja y aceite de sésamo, si lo desea.</string>
+
+    <string name="titulo_chopsuey">Chop Suey</string>
+    <string name="chopsuey_ingredientes">2 pechugas de pollo.\n
+½ pimiento rojo.\n
+1 calabacín pequeño.\n
+1 cebolla.\n
+1 zanahoria grande.\n
+180 g. brotes de soja (mejor frescos).\n
+1 cucharadita de jengibre fresco picadito.\n
+1 diente de ajo.\n
+150 ml. salsa de soja.\n
+1 cucharadita de aceite de sésamo.\n
+Aceite de girasol para freír.</string>
+    <string name="chopsuey_procedimiento">Metodo de preparación:
+Preparación de la base del chop suey:\n
+Pelamos la cebolla y la cortamos en juliana gruesa. Lavamos y cortamos en bastoncitos el resto de verduras, el pimiento, la zanahoria y el calabacín. En un cuenco mezclamos la salsa de soja, con el jengibre y el ajo cortados menuditos. Reservamos.
+En un wok ponemos 4-5 cucharadas de aceite de girasol. Cuando el aceite esté bien caliente incorporamos las verduras y las cocinamos a fuego fuerte, removiendo casi constantemente para evitar que se quemen. Si utilizamos brotes de soja frescos los incorporamos con el resto de verduras. Si los utilizamos de bote los reservamos para el final. La textura final tiene que ser más bien durita, al dente.
+Si cocinamos las verduritas todas juntas necesitaremos 10 minutos. Si lo hacemos por tandas con 4 minutos cada una será suficiente.\n
+Preparación del chop suey de pollo:\n
+Incorporamos al wok el pollo troceado y cocinamos a fuego fuerte 5 minutos. Seguimos con la incorporación del aceite de sésamo y de la salsa de soja con ajo y jengibre que tenemos reservada.\n
+Le damos caña al fuego, debe estar alto para que evapore rápido y quede una salsa densa. Cocinamos unos 10 minutos aproximadamente, depende mucho del menaje que emplees.\n
+Si os gustan los brotes de soja (opcionales) los incorporamos con la salsa cuando la añadimos al pollo. Servimos bien caliente en un cuenco acompañado con un buen tazón de arroz blanco.</string>
+
+
+    COMIDA COLOMBIANA
+
+    <string name="titulo_ajico">Ajico</string>
+    <string name="ajico_ingredientes">Ajico</string>
+    <string name="ajico_procedimiento">Ajico</string>
+
 </resources>

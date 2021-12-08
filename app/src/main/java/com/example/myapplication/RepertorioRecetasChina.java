@@ -15,17 +15,17 @@ public class RepertorioRecetasChina extends AppCompatActivity {
     }
 
     public void AbalonEnLecho(View view) {
-        Intent clickear = new Intent(this, Pizza.class);
+        Intent clickear = new Intent(this, AbalonEnLeche.class);
         startActivity(clickear);
     }
 
     public void ArrozCongee(View view) {
-        Intent clickear = new Intent(this, Pizza.class);
+        Intent clickear = new Intent(this, ArrozCongee.class);
         startActivity(clickear);
     }
 
     public void ChopSuey(View view) {
-        Intent clickear = new Intent(this, Pizza.class);
+        Intent clickear = new Intent(this, Chopsuey.class);
         startActivity(clickear);
     }
 

@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".RepertorioRecetasColombia"
+            android:exported="false" />
+        <activity
+            android:name=".Chopsuey"
+            android:exported="false" />
+        <activity
+            android:name=".ArrozCongee"
+            android:exported="false" />
+        <activity
+            android:name=".AbalonEnLeche"
+            android:exported="false" />
+        <activity
             android:name=".RepertorioRecetasChina"
             android:exported="false" />
         <activity
