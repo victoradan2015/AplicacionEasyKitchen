@@ -695,6 +695,108 @@ Incorporamos al wok el pollo troceado y cocinamos a fuego fuerte 5 minutos. Segu
 Le damos caña al fuego, debe estar alto para que evapore rápido y quede una salsa densa. Cocinamos unos 10 minutos aproximadamente, depende mucho del menaje que emplees.\n
 Si os gustan los brotes de soja (opcionales) los incorporamos con la salsa cuando la añadimos al pollo. Servimos bien caliente en un cuenco acompañado con un buen tazón de arroz blanco.</string>
 
+    <string name="titulo_chow_mein">Chow mein</string>
+    <string name="chow_mein_ingredientes">
+1 zucchini\n
+1 cebolla\n
+1/2 morrón rojo\n
+1/2 morrón verde\n
+2 dientes de ajo\n
+1 cucharada de miel\n
+3/4 taza de salsa de soja\n
+1 paquete de fideos de arroz\n
+Sal y pimienta, a gusto\n
+Jengibre rallado, a gusto</string>
+    <string name="chow_mein_procedimiento">Hidratar o cocinar los fideos de arroz según indicaciones del paquete.\n
+
+Cortar los vegetales del tamaño deseado: cebollas en trozos, morrones en tiras, zucchinis irregulares. Saltear en un wok aceitado las verduras. Deben quedar crocantes.\n
+
+Sumar el jengibre rallado, la miel y la salsa de soja. Revolver y dejar reducir unos minutos.\n
+
+Sumar los fideos, revolver y servir.</string>
+
+    <string name="titulo_dim_sum">dim sum</string>
+    <string name="dim_sum_ingredientes">20 unidades de pasta wonton\n
+200 g. de cerdo picado\n
+200 g. de langostinos picados\n
+2 setas shitake seso y hidratadas\n
+5 g. de cebolletas (la parte verde)\n
+1 cucharadita de jengibre rallado\n
+un poco de zanahoria para decorar\n
+1/2 cucharada de maizena\n
+1 cucharada de salsa de ostras\n
+1/2 cucharada de salsa de soja ligera\n
+1 pizca de pimienta blanca\n
+1/2 cucharadita de aceite de sésamo\n
+1/2 cucharadita de sal
+</string>
+    <string name="dim_sum_procedimiento">En un bol ponemos los langostinos, la mitad de la maizena y la sal. Removemos en la misma dirección hasta conseguir una pasta pegajosa, lo tapamos y reservamos.\n
+En otro bol más grande, ponemos el cerdo, el resto de la maizena y la sal y lo removemos.\n
+Incorporamos la salsa de soja ligera, la salsa de ostras, el azúcar, la pimienta blanca y removemos unos 5 minutos.\n
+Le añadimos los langostinos, las setas shitake, la cebolleta, el jengibre y el aceite de sésamo. Removemos otros 10 minutos hasta conseguir una masa pegajosa, lo tapamos y dejamos en la nevera durante 1 hora.\n
+Cortamos la pasta wonton en círculos o simplemente las 4 esquinas para no perder tanta pasta.\n
+Con la ayuda de un cuchillo, ponemos unos 25 g. de nuestro relleno en el centro de la pasta wonton y vamos cerrando la mano formando un saquito abierto, decoramos con la zanahoria y repetimos el proceso hasta terminar todas las piezas.\n
+En un cestillo de bambú o en cualquier recipiente para cocina al vapor, ponemos papel de horno perforado en la base y nuestras piezas encima.\n
+Las cocinamos al vapor de 8 a 10 minutos a fuego medio y listo.
+</string>
+
+    <string name="titulo_mapotofu">Ma po tofu</string>
+    <string name="mapotofu_ingredientes">250 g de carne mixta picada\n
+2 dientes de ajo\n
+3 cucharaditas de fécula de patata\n
+1 cucharada de salsa de ostras\n
+1 cucharadita de aceite de sésamo\n
+1 cucharada de salsa de soja\n
+Aceite de oliva\n
+3 cucharaditas de pasta de guindilla picante\n
+750 g de tofu firme\n
+2 Cebolletas frescas\n
+50 ml de caldo de pollo\n
+1 cucharadita de cebollino picado\n
+1 cucharada de ketchup\n
+Sal\n
+Ajinomoto\n
+Azúcar
+</string>
+    <string name="mapotofu_procedimiento">
+En primer lugar, en un bol no metálico, ponemos la carne picada, y añadimos la salsa de ostras, la salsa de soja, una pizca de sal, azúcar, ajinomoto y el aceite de sésamo. Mezclamos con las manos y dejamos adobar 15 minutos en la nevera tapada con papel film.
+Mientras, troceamos el tofu en láminas de 1 dedo de grosor. Las cortamos en cuadrados de 1 dedo.
+Picamos el ajo y la cebolleta en brunoise. Reservamos.\n
+En un vaso disolvemos la fécula de patata en un poco de agua fría. Reservamos.\n
+En una sartén tipo wok ponemos un poco de aceite de oliva, y salteamos el ajo y la cebolleta hasta que estén dorados. Añadimos la carne adobada y la cocinamos.
+Incorporamos el caldo, la pasta de guindilla y la cucharada de ketchup, dejamos cocer un minuto y añadimos la fécula mezclada con agua para que espese la salsa.
+Incorporamos el tofu cortado en dados y cocemos durante 3 minutos más.</string>
+
+    <string name="titulo_patolaqueado_ala_pekinesa">Pato laqueado a la pekinesa</string>
+    <string name="patolaqueado_ala_pekinesa_ingredientes">1 pato pequeño\n
+2 anís estrellado\n
+1 trocito de canela china\n
+½ diente de ajo\n
+1 pizca de semillas de hinojo\n
+4 granos de pimienta de sichuán\n
+100 ml vino de jeréz\n
+1 pizca de chile rojo\n
+1 trozo de jengibre fresco\n
+Sal\n
+2 cda salsa de soja\n
+3 cda de miel\n
+½ pepino\n
+½ cebolleta\n
+Crepes chinas</string>
+    <string name="patolaqueado_ala_pekinesa_procedimiento">En una olla grande pones suficiente agua a hervir, escaldas el pato durante 1 min. Sacas el pato del agua y dejas enfriar.\n
+Despegas la piel del pato ayudándote con una pajita soplando entre la piel y la carne del ave. La piel debe quedar completamente despegada, sin perder su forma.\n
+Atraviesas el extremo del cuello del pato con un gancho de metal, para poder colgarlo. Pones debajo del pato una cacerola.\n
+Pelas y picas el jengibre tan pequeño como puedas, puedes rallarlo.\n
+En una olla viertes el agua e incorporas la miel, el jengibre picado, la salsa de soja, el anís estrellado, la canela china, las semillas de hinojo, el chile en polvo y el vino. Pones sobre el fuego y cuando empiece a hervir apagas el fuego.
+Cuando el líquido esté todavía muy caliente, lo viertes sobre el pato colgado y te aseguras que el pato quede bien bañado.\n
+Una vez que la piel esté bien empapada de la salsa,  el pato tendrá un color marrón chocolate.\n
+Cuelgas el pato laqueado de Pekín en un lugar seco y fresco y lo dejas durante 5 horas.\n
+Pasadas estas horas de reposo, la piel del pato deberá apreciarse seca y firme al tacto.\n
+Colocas el pato sobre una rejilla, por debajo pones una fuente para horno con 2 vasos de agua.\n
+Horneas a 240°C durante 20 min. Pasado este tiempo, bajas la temperatura  a 180 °C durante 1 hora.\n
+Una vez que haya pasado este tiempo, ya puedes sacar tu pato laqueado de Pekín del horno.\n
+Cortas en bastones finitos la cebolleta y los colocas en un bol con agua durante 10 min. Después los pones sobre un papel absorbente de cocina. Igualmente cortas el pepino.</string>
+
 
     COMIDA COLOMBIANA
 
@@ -931,6 +1033,15 @@ Espolvorear con ajo picado fino y aderezar con aceite y sal antes de servir.</st
     <string name="titulo_"></string>
     <string name="_ingredientes"></string>
     <string name="_procedimiento"></string>
+    <string name="title_activity_mapotofu">Mapotofu</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 
 
 </resources>
