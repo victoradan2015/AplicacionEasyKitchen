@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".RepertorioRecetasEspana"
+            android:exported="false" />
+        <activity
             android:name=".Cuchuco"
             android:exported="false" />
         <activity

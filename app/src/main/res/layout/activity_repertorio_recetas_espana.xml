@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RepertorioRecetasColombia">
+    tools:context=".RepertorioRecetasEspana">
 
     <LinearLayout
         android:layout_height="match_parent"
@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="COMIDA COLOMBIANA"
+            android:text="COMIDA ESPAÑA"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -30,7 +30,7 @@
             android:layout_height="30dp"
             android:layout_marginLeft="0sp"
             android:layout_marginTop="20sp"
-            android:src="@drawable/colombiana"
+            android:src="@drawable/espana"
             android:layout_margin="10dp"
             />
 
@@ -51,7 +51,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/ajiaco"
+                    android:background="@drawable/bacalaoalavizcaina"
 
                     android:clickable="true"
                     android:focusable="true"
@@ -77,7 +77,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/arepas"
+                    android:background="@drawable/boqueronesfritos"
                     android:onClick="Arepas"
 
                     android:orientation="vertical">
@@ -98,7 +98,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/arrozconcoco"
+                    android:background="@drawable/chipirones"
                     android:onClick="ArrozConCoco"
 
                     android:orientation="vertical">
@@ -120,7 +120,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/bollolimpio"
+                    android:background="@drawable/chorizoalasidra"
                     android:onClick="BolloLimpio"
 
                     android:orientation="vertical">
@@ -143,7 +143,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/carimanola"
+                    android:background="@drawable/cocidomadrileño"
                     android:onClick="Carimanola"
                     android:orientation="vertical">
 
@@ -163,7 +163,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/changua"
+                    android:background="@drawable/croquetas"
                     android:orientation="vertical"
                     android:onClick="Changua"
                     android:layout_marginVertical="10dp"
