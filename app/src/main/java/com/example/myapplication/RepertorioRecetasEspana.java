@@ -35,17 +35,17 @@ public class RepertorioRecetasEspana extends AppCompatActivity {
     }
 
     public void CocidoMadrileno(View view) {
-        Intent clickear = new Intent(this, ChorizoALaSidra.class);
+        Intent clickear = new Intent(this, CocidoMadrileno.class);
         startActivity(clickear);
     }
 
     public void Croquetas(View view) {
-        Intent clickear = new Intent(this, ChorizoALaSidra.class);
+        Intent clickear = new Intent(this, Croquetas.class);
         startActivity(clickear);
     }
 
     public void Escalivada(View view) {
-        Intent clickear = new Intent(this, ChorizoALaSidra.class);
+        Intent clickear = new Intent(this, Escalivada.class);
         startActivity(clickear);
     }
 

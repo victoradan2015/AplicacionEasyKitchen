@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Escalivada"
+            android:exported="false" />
+        <activity
+            android:name=".Croquetas"
+            android:exported="false" />
+        <activity
+            android:name=".CocidoMadrileno"
+            android:exported="false" />
+        <activity
             android:name=".ChorizoALaSidra"
             android:exported="false" />
         <activity
