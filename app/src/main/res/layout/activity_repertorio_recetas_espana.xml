@@ -55,7 +55,7 @@
 
                     android:clickable="true"
                     android:focusable="true"
-                    android:onClick="Ajico"
+                    android:onClick="BacalaoALaVizcaina"
                     android:orientation="vertical"
                     android:weightSum="1">
 
@@ -63,7 +63,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_ajiaco"
+                        android:text="@string/titulo_bacalao_a_la_vizcaina"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold"
@@ -78,7 +78,7 @@
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/boqueronesfritos"
-                    android:onClick="Arepas"
+                    android:onClick="BoqueronesFritos"
 
                     android:orientation="vertical">
 
@@ -86,7 +86,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_arepas"
+                        android:text="@string/titulo_boquerones_fritos"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -99,7 +99,7 @@
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/chipirones"
-                    android:onClick="ArrozConCoco"
+                    android:onClick="Chipirones"
 
                     android:orientation="vertical">
 
@@ -107,7 +107,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_arroz_con_coco"
+                        android:text="@string/titulo_chipirones"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -121,7 +121,7 @@
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
                     android:background="@drawable/chorizoalasidra"
-                    android:onClick="BolloLimpio"
+                    android:onClick="ChorizoALaSidra"
 
                     android:orientation="vertical">
 
@@ -129,7 +129,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_bollolimpio"
+                        android:text="@string/titulo_chorizo_a_la_sidra"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -143,15 +143,15 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/cocidomadrileño"
-                    android:onClick="Carimanola"
+                    android:background="@drawable/cocidomadrileno"
+                    android:onClick="CocidoMadrileno"
                     android:orientation="vertical">
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_carimanola"
+                        android:text="@string/titulo_cocido_madrileño"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -165,7 +165,7 @@
                     android:layout_weight="1"
                     android:background="@drawable/croquetas"
                     android:orientation="vertical"
-                    android:onClick="Changua"
+                    android:onClick="Croquetas"
                     android:layout_marginVertical="10dp"
                     >
 
@@ -173,7 +173,6 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:onClick="Changua"
                         android:text="@string/titulo_changua"
                         android:textColor="@color/white"
                         android:textSize="20sp"
@@ -186,9 +185,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/cuchuco"
+                    android:background="@drawable/escalivada"
                     android:orientation="vertical"
-                    android:onClick="Cuchuco"
+                    android:onClick="Escalivada"
                     android:layout_marginVertical="10dp"
 
                     >
@@ -197,7 +196,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_cuchuco"
+                        android:text="@string/titulo_escalivada"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />

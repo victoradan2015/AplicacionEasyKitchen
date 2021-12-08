@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".ChorizoALaSidra"
+            android:exported="false" />
+        <activity
+            android:name=".Chipirones"
+            android:exported="false" />
+        <activity
+            android:name=".BoqueronesFritos"
+            android:exported="false" />
+        <activity
+            android:name=".BacalaoALaVizcaina"
+            android:exported="false" />
+        <activity
             android:name=".RepertorioRecetasEspana"
             android:exported="false" />
         <activity

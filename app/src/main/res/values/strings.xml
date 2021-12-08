@@ -813,4 +813,124 @@ A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a
 No dejes que se seque, sigue echando el caldo con los ingredientes.\n
 Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañan</string>
 
+
+    COMIDA ESPAÑOLA
+
+    <string name="titulo_bacalao_a_la_vizcaina">Bacalao A La Vizcaina</string>
+    <string name="bacalao_a_la_vizcaina_ingredientes"> 1 kg Bacalao.\n
+ 2 lt Agua tibia.\n
+ 1/2 Cebolla, finamente picada.\n
+ 6 Dientes de ajo, finamente picados.\n
+ 6 jitomates, sin semillas y en cubos chicos.\n
+ 2 tazas Puré de tomate.\n
+ 3/4 taza Aceite de Oliva.\n
+ 3 tazas Papas, en cubos y cocidas.\n
+ 150 g Almendra, peladas y picadas.\n
+ 200 g Aceitunas verdes, sin hueso y picadas.\n
+ 1/2 taza Perejil picado.\n
+ 1 taza Chile güero en lata.\n
+ Sal y pimienta al gusto
+</string>
+    <string name="bacalao_a_la_vizcaina_procedimiento">Coloca el bacalao en un refractario y cubre con agua tibia. Deja reposar por 2 noches antes de la preparación. Cambia el agua cada 6 horas.\n
+Escurre y desmenuza, retira las espinas.\n
+Calienta el aceite y acitrona la cebolla y el ajo.\n
+Agrega el jitomate y mezcla.\n
+Cocina por 10 minutos o hasta que suelte sus jugos.\n
+Añade las papas y mezcla.\n
+Vierte el puré de tomate y mezcla. Cocina por 10 minutos.\n
+Agrega el bacalao, las aceitunas y las almendras. Tapa y cocina por 25 minutos. Mueve ocasionalmente.\n
+Agrega el perejil y mezcla.\n
+Sazona y mezcla. Cocina por 10 minutos más y sirve. Acompaña con los chiles güeros y pan.</string>
+
+    <string name="titulo_boquerones_fritos">Boquerones Fritos</string>
+    <string name="boquerones_fritos_ingredientes">
+600 g de boquerones frescos limpios.\n
+Harina.\n
+Aceite de oliva virgen extra.\n
+1 limón.\n
+Sal
+</string>
+    <string name="boquerones_fritos_procedimiento">
+Sala los boquerones.\n
+Dispón un plato con harina y reboza los boquerones por ambos lados.\n
+Pon una sartén al fuego con abundante aceite de oliva para freír los boquerones.\n
+Antes de añadirlos a la sartén, sacúdelos un poco para que suelten el exceso de harina y el rebozado quede más fino.\n
+Fríe los boquerones en tandas durante 3-4 minutos. Al retirarlos, déjalos sobre papel absorbente para eliminar el exceso de aceite.\n
+Sírvelos con unas rodajas de limón para decorar y también para poder añadirles unas gotitas de zumo al degustarlos.\n</string>
+
+    <string name="titulo_chipirones">Chipirones</string>
+    <string name="chipirones_ingredientes">1 kg de chipirones (limpios).\n
+2 cebollas grandes.\n
+2 dientes de ajo.\n
+1 vasito de coñac.\n
+sal.\n
+perejil picado
+</string>
+    <string name="chipirones_procedimiento">Tiramos de los tentáculos con cuidado, introduciendo un dedo dentro del chipirón, para poder retirar también con un solo movimiento todos los interiores.\n
+Abrimos los tentáculos y tiramos de la boca para retirarla.\n
+Luego haciendo presión con dos dedos en la zona en donde se unen los interiores a los tentáculos, con la otra mano tiramos de los tentáculos para separarlos.\n
+También cortamos las aletas y las picamos.\n
+Retiramos la pluma, que es la piel transparente que queda en el interior del chipirón.\n
+Damos vuelta el chipirón, como si fuera un calcetín, para limpiarlo por dentro de cualquier resto de arena. Si son pequeños podemos solo meter un dedo dentro para limpiarlos, sin darlos vuelta.\n
+Secamos con papel absorbente para eliminar el exceso de agua.</string>
+
+    <string name="titulo_chorizo_a_la_sidra">Chorizo A La Sidra</string>
+    <string name="chorizo_a_la_sidra_ingredientes">Chorizo fresco.\n
+1 kg.\n
+Sidra de manzana natural.\n
+250 ml.\n
+Patata cocida para acompañar (opcional)</string>
+    <string name="chorizo_a_la_sidra_procedimiento">Sacamos la cuerda a los chorizos y los colocamos en una cazuela con fondo.\n
+Los pinchamos con la punta de un cuchillo para que no revienten y suelten parte del jugo durante la cocción.\n
+Echamos por encima la sidra y ponemos a fuego alto.\n
+Cuando empiece a hervir dejamos a fuego vivo durante cinco minutos, lo bajamos y terminamos la cocción.\n
+El tiempo dependerá de la frescura, tamaño y calidad del chorizo, pero en unos 15 ó 20 minutos estarán, cuando el alcohol se haya evaporado y reducido el líquido, quedando una salsita en el fondo de la cazuela.\n
+Servimos inmediatamente.</string>
+
+    <string name="titulo_cocido_madrileño">Cocido Madrileño</string>
+    <string name="cocido_madrileño_ingredientes">Suficiente de agua\n
+1 taza de gallina\n
+1 taza de tocino\n
+1 taza de jamón serrano, en punta\n
+2 tazas de tuétano\n
+1 1/2 tazas de garbanzo, remojados y limpios\n
+2 zanahorias\n
+1 nabo\n
+4 papas\n
+Sal al gusto\n
+1/2 tazas de fideo, cabellín\n
+1 taza de col\n
+1/2 tazas de chorizo\n
+1/2 tazas de morcilla de arroz</string>
+    <string name="cocido_madrileño_procedimiento">En una olla con agua cocina las carnes, la punta de jamón y los huesos; cuando empiece a hervir agrega los garbanzos; al segundo hervor, agrega la zanahoria, el nabo y cocina por 1 hora.\n
+Añade la papa y cocina por aproximadamente 1 horas más o hasta que todos los ingredientes estén suaves. Sazona con sal. Cuela y con el mismo, caldo cocina los fideos. Reserva.\n
+En una ollita hierve la col. Escurre y reserva.\n
+En una sartén cocina el chorizo y la morcilla.\n
+Sirve el caldo con los fideos, los garbanzos, la verdura y las carnes.</string>
+
+    <string name="titulo_croquetas">Croquetas</string>
+    <string name="croquetas_ingredientes">4 berenjenas grandes\n
+8 pimientos rojos\n
+2 dientes de ajo picados\n
+1 dl de aceite de oliva\n
+Sal.</string>
+    <string name="croquetas_procedimiento">Asar las berenjenas y los pimientos a la brasa o al horno. Pelar y quitar la parte del tallo de las berenjenas. \n
+Pelar y retirar las semillas a los pimientos. Cortar las verduras en tiras.\n
+Espolvorear con ajo picado fino y aderezar con aceite y sal antes de servir.</string>
+
+    <string name="titulo_escalivada">Escalivada</string>
+    <string name="escalivada_ingredientes">4 berenjenas grandes\n
+8 pimientos rojos\n
+2 dientes de ajo picados\n
+1 dl de aceite de oliva\n
+Sal.</string>
+    <string name="escalivada_procedimiento">Asar las berenjenas y los pimientos a la brasa o al horno. Pelar y quitar la parte del tallo de las berenjenas.\n
+Pelar y retirar las semillas a los pimientos. Cortar las verduras en tiras.\n
+Espolvorear con ajo picado fino y aderezar con aceite y sal antes de servir.</string>
+
+    <string name="titulo_"></string>
+    <string name="_ingredientes"></string>
+    <string name="_procedimiento"></string>
+
+
 </resources>
