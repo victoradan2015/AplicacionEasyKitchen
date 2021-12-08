@@ -731,5 +731,86 @@ Cuando la sartén esté caliente, coloca las arepas y cocínalas, aproximadament
 Deben dorarse por fuera y cocinarse por dentro, puedes comprobar cómo está abriéndola por la mitad para cerciorarte que la arepa está bien cocida.\n
 Y ya tienes unas deliciosas arepas caseras listas para rellenar con tus ingredientes favoritos.</string>
 
+    <string name="titulo_arroz_con_coco">Arroz Con Coco</string>
+    <string name="arroz_con_coco_ingredientes">1 lata de agua de coco.\n
+1/2 cucharadita de sal.\n
+1 taza de arroz de grano mediano.\n
+2/3 taza de leche evaporada.\n
+Ralladura de limón verde</string>
+    <string name="arroz_con_coco_procedimeinto">Haz hervir el agua de coco en una cacerola mediana a fuego medio.\n
+Agrega la sal y el arroz. Reduce el fuego a medio-bajo; pon la tapa.\n
+Cocina esto, revolviéndolo de vez en cuando, de 12 a 15 minutos hasta que el agua esté a punto de ser absorbida por completo.\n
+Agrega la leche evaporada. Pon la tapa y cocina el conjunto, revolviéndolo de vez en cuando, de 10 a 15 minutos más o hasta que el arroz esté tierno.\n
+Puedes agregar más agua en caso de que sea necesaria para conseguir que el arroz tenga la textura necesaria. Retira la cacerola del fuego.\n
+Incorpora, al gusto, la ralladura de limón verde, de así desearlo.</string>
+
+    <string name="titulo_bollolimpio">Bollolimpio</string>
+    <string name="bollolimpio_ingredientes">1 ½ kg de maíz pilado.\n
+Sal.\n
+Hojas de mazorca grandes.\n
+Cabuya
+    </string>
+    <string name="bollolimpio_procedimiento">Poner a remojar el maíz desde víspera y limpiarlo de impurezas.\n
+Botar el agua y cocinar el maíz en agua fresca durante 30 minutos, dejar enfriar.\n
+Escurrir el agua, moler el maíz y amasarlo con un poco de sal hasta obtener una pasta suave.\n
+Lavar las hojas de mazorca y poner 3 cucharadas de masa en cada una, cubrirla con otra hoja y envolver bien, doblar los extremos y amarrar.\n
+Cocinar en agua hirviendo con un poquito de sal durante 30 minutos.</string>
+
+    <string name="titulo_carimanola">Carimañola</string>
+    <string name="carimanola_ingredientes">1 kilo yuca.\n
+al gusto sal.\n
+500 gr carne molida.\n
+2 cebollas grandes picada.\n
+1 zanahoria rallada.\n
+4 dientes ajo.\n
+orégano seco.\n
+pimienta picante molida de la negra.\n
+2 cdas vinagre.\n
+4 cdas salsa soya.\n
+1 cubo caldo de res</string>
+    <string name="carimanola_procedimiento">Poner a sancochar la yuca en abunda te agua con bastante sal, esperar hasta que esté semi blanda.\n
+sacar y dejar enfriar. Luego pasarla por un molino y amasarla.\n
+Para la carne sofreír la cebolla picada con la zanahoria rallada el ajo y el orégano.\n
+Luego agregar la carne molida, el vinagre, la salsa soya, el cubo de caldo de res la pimienta, la sal y tapar, dejar cocinar a fuego lento.\n
+Destapar revisar la sazón y esperar a a que seque con esto rellenaremos las empanadas de yuca.\n
+Armar las empanadas. Sofreír en abundante aceite. Y listo.</string>
+
+    <string name="titulo_changua">Changua</string>
+    <string name="changua_ingredientes">1 kilo yuca.\n
+al gusto sal.\n
+500 gr carne molida.\n
+2 cebollas grandes picada.\n
+1 zanahoria rallada.\n
+4 dientes ajo.\n
+orégano seco.\n
+pimienta picante molida de la negra.\n
+2 cdas vinagre.\n
+4 cdas salsa soya.\n
+1 cubo caldo de res</string>
+    <string name="changua_procedimiento">Pon a calentar el agua en una olla o cazuela de barro a fuego medio.
+Agrégale la cebolla verde y déjala cocinar durante 2 minutos.
+Agrega la leche y la sal. Reduce la temperatura y agrega los huevos.
+Cocina por 2 minutos o hasta que los huevos estén cocinados.
+Agrega los trozos de pan sobre la changua y decora con el cilantro picado.</string>
+
+    <string name="titulo_cuchuco">Cuchuco</string>
+    <string name="cuchuco_ingredientes">5 vainas medianas de ají colorado o 3 cucharas de ají colorado molido.\n
+2 cucharillas de pimienta entera.\n
+2 cucharillas de comino entero.\n
+4 dientes de ajo.\n
+3 Kg. carne de cerdo (preferentemente pierna).\n
+8 papas blancas peladas.\n
+1½ Lb pataska cocida.\n
+1 Lb maíz pelado no cocido.\n
+sal.\n
+aceite.</string>
+    <string name="cuchuco_procedimiento">Una noche antes remojar el maíz PELADO seco en bastante agua, al día siguiente darle una lavada y ponerle a cocer con sal muy poco  hasta que el maíz se revienten.\n
+En un batán de piedra moler la pimienta, el comino y los ajos y separarlo. para darle un poco de sabor K’aspalo los AJIS,  pasando por el fuego de la cocina y también mole bien fino.\n
+Cortar el cerdo (chancho) en trozos pequeños y lávalos, y  hacerles cocer por lo menos unas 2 horas con bastante agua y sal a gusto y agrégalo los condimentos que moliste en el batan y sal a gusto.\n
+Saca el cerdo y en un sartén con aceite, freír de ambos lados todos los pedazos.\n
+Mientra tanto en otra olla  con 3 cucharadas de aceite,  hacer cocer el ají colorado durante diez minutos removiendo constantemente para que no se pegue, en unos 10 minutos ya cocerá el ají y  hecha  un cucharón de caldo del chancho.\n
+A esta preparación de la nueva olla añadir los trozos de cerdo y dejar cocer a fuego lento durante 30 minutos, para que el sabor del aji entre a la carne.\n
+No dejes que se seque, sigue echando el caldo con los ingredientes.\n
+Servir en un plato el mote  y luego colocar pedazos de cerdo  y rociarlo con el ají colorado, acompañan</string>
 
 </resources>

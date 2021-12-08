@@ -86,7 +86,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_gyosa"
+                        android:text="@string/titulo_arepas"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -107,7 +107,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_omuraisu"
+                        android:text="@string/titulo_arroz_con_coco"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -120,7 +120,7 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/chowmein"
+                    android:background="@drawable/bollolimpio"
                     android:onClick="BolloLimpio"
 
                     android:orientation="vertical">
@@ -129,7 +129,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_onigiri"
+                        android:text="@string/titulo_bollolimpio"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -143,15 +143,15 @@
                     android:layout_height="100dp"
                     android:layout_marginVertical="10dp"
                     android:layout_weight="1"
-                    android:background="@drawable/dimsum"
-                    android:onClick="DimSun"
+                    android:background="@drawable/carimanola"
+                    android:onClick="Carimanola"
                     android:orientation="vertical">
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_pollo_teriyaki"
+                        android:text="@string/titulo_carimanola"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -163,9 +163,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/ramen"
+                    android:background="@drawable/changua"
                     android:orientation="vertical"
-                    android:onClick="Ramen"
+                    android:onClick="Changua"
                     android:layout_marginVertical="10dp"
                     >
 
@@ -173,8 +173,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:onClick="Mapotofu"
-                        android:text="@string/titulo_ramen"
+                        android:onClick="Changua"
+                        android:text="@string/titulo_changua"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -186,9 +186,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sashimi"
+                    android:background="@drawable/cuchuco"
                     android:orientation="vertical"
-                    android:onClick="Sashimi"
+                    android:onClick="Cuchuco"
                     android:layout_marginVertical="10dp"
 
                     >
@@ -197,7 +197,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:gravity="center"
-                        android:text="@string/titulo_sashimi"
+                        android:text="@string/titulo_cuchuco"
                         android:textColor="@color/white"
                         android:textSize="20sp"
                         android:textStyle="bold" />

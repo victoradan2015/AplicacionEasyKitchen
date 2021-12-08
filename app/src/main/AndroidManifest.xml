@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".Cuchuco"
+            android:exported="false" />
+        <activity
+            android:name=".Changua"
+            android:exported="false" />
+        <activity
+            android:name=".Carimanola"
+            android:exported="false" />
+        <activity
+            android:name=".BolloLimpio"
+            android:exported="false" />
+        <activity
             android:name=".ArrozConCoco"
             android:exported="false" />
         <activity

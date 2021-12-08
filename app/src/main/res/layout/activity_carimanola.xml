@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Arepas">
+    tools:context=".Carimanola">
 
     <LinearLayout
         android:layout_height="match_parent"
@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
-            android:text="@string/titulo_arepas"
+            android:text="@string/titulo_carimanola"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="150dp"
             android:layout_margin="10dp"
-            android:background="@drawable/arepas">
+            android:background="@drawable/carimanola">
 
         </ImageView>
 
@@ -79,7 +79,7 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
                         android:gravity="left"
-                        android:text="@string/arepas_ingredientes"
+                        android:text="@string/carimanola_ingredientes"
                         android:textColor="@color/black"
                         android:textColorHint="@color/black"
                         android:textSize="20sp"
@@ -99,7 +99,7 @@
                         android:layout_height="398dp"
                         android:layout_margin="10dp"
                         android:gravity="left"
-                        android:text="@string/arepas_procedimiento"
+                        android:text="@string/carimanola_procedimiento"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="italic" />

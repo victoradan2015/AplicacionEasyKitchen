@@ -30,8 +30,25 @@ public class RepertorioRecetasColombia extends AppCompatActivity {
     }
 
     public void BolloLimpio(View view) {
-        Intent clickear = new Intent(this, AbalonEnLeche.class);
+        Intent clickear = new Intent(this, BolloLimpio.class);
         startActivity(clickear);
     }
+
+    public void Carimanola(View view) {
+        Intent clickear = new Intent(this, Carimanola.class);
+        startActivity(clickear);
+    }
+
+    public void Changua(View view) {
+        Intent clickear = new Intent(this, Changua.class);
+        startActivity(clickear);
+    }
+
+    public void Cuchuco(View view) {
+        Intent clickear = new Intent(this, Cuchuco.class);
+        startActivity(clickear);
+    }
+
+
 
 }
