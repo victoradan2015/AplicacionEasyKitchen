@@ -54,6 +54,7 @@
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_gnocci.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_la_polenta.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_lasana.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_login.xml" value="0.18614130434782608" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_mapotofu.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_minestrone.xml" value="0.16" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_ossobuco.xml" value="0.12864583333333332" />
@@ -62,6 +63,7 @@
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_pizza.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_ramen.xml" value="0.19882246376811594" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_ravioles.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_registro.xml" value="0.18614130434782608" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_repertorio_paises.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_repertorio_recetas_china.xml" value="0.18614130434782608" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_repertorio_recetas_colombia.xml" value="0.16" />
@@ -72,6 +74,9 @@
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_risotto.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_soba.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/layout/activity_spagetti.xml" value="0.2" />
+        <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/menu/menu_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
+        <entry key="..\:/Users/luisr/OneDrive/Documentos/ADAN/AplicacionEasyKitchen/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2890625" />
       </map>
     </option>
   </component>

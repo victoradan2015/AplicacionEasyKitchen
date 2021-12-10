@@ -93,6 +93,7 @@
                 android:background="@color/black"
                 android:onClick="IniciarSesion"
                 android:text="Iniciar sesion"
+                android:textColor="@color/white"
                 android:weightSum="1"
                 app:backgroundTint="#000000"
                 app:cornerRadius="10dp" />

@@ -109,10 +109,12 @@
                 android:layout_marginLeft="10sp"
                 android:layout_marginRight="10sp"
                 android:background="@drawable/botton"
+                android:onClick="Resgistrarme"
                 android:text="Registrarme"
+                android:textColor="@color/white"
                 android:weightSum="1"
-                app:backgroundTint="#000000"
 
+                app:backgroundTint="#000000"
                 app:cornerRadius="10dp" />
             <TextView
                 android:layout_width="match_parent"
@@ -125,17 +127,18 @@
                 android:layout_marginBottom="10sp"
 
                 />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Iniciar sesion"
-                android:textSize="18sp"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:textColor="@color/black"
                 android:layout_marginBottom="10sp"
+                android:gravity="center"
+                android:onClick="Login"
+                android:text="Iniciar sesion"
+                android:textColor="@color/black"
+                android:textSize="18sp"
 
-                />
+                android:textStyle="bold" />
 
         </LinearLayout>
     </LinearLayout>
