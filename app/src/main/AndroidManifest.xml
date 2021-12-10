@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".prueba"
+            android:exported="false"
+            android:label="@string/title_activity_prueba"
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
+        <activity
             android:name=".Mapotofu"
             android:exported="false" />
         <activity
@@ -188,12 +193,12 @@
             android:name=".Registro"
             android:exported="false"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyApplication.NoActionBar"/>
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="false"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyApplication.NoActionBar"/>
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
         <activity
             android:name=".Login"
             android:exported="true"
